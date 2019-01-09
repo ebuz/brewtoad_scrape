@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Belgian Raspberry Ale</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Belgian Specialty Ale</NAME>
+      <STYLE_LETTER>E</STYLE_LETTER>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Liquid Malt Extract - Light</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>2.7215542200000002</AMOUNT>
+        <DISPLAY_AMOUNT>6.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Liquid Malt Extract - Munich</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>1.3607771100000001</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>8</COLOR>
+        <DISPLAY_COLOR>8 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Victory (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>28</COLOR>
+        <DISPLAY_COLOR>28 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Carapils (Dextrine Malt) (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.021262124999999996</AMOUNT>
+        <DISPLAY_AMOUNT>0.75 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.007087375</AMOUNT>
+        <DISPLAY_AMOUNT>0.25 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safbrew S-33</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Raspberry (Whole)</NAME>
+        <USE>Primary</USE>
+        <TIME>9.0</TIME>
+        <AMOUNT>3.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>3.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>9.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>Extract</TYPE>
+    <BREWER>bluegbb</BREWER>
+    <BATCH_SIZE>20.81976479</BATCH_SIZE>
+    <BOIL_SIZE>24.983717748</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

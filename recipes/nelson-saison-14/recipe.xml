@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Nelson Saison</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Saison</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.002</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>20.0</IBU_MIN>
+      <IBU_MAX>35.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Malt (2 Row) UK</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>4.5132440815</AMOUNT>
+        <DISPLAY_AMOUNT>9.95 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat Malt, Ger</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>0.7302837157000001</AMOUNT>
+        <DISPLAY_AMOUNT>1.61 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Nelson Sauvin (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>12.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.041957259999999996</AMOUNT>
+        <DISPLAY_AMOUNT>1.48 oz</DISPLAY_AMOUNT>
+        <USE>Mash</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Nelson Sauvin (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>12.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.013891255</AMOUNT>
+        <DISPLAY_AMOUNT>0.49 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Nelson Sauvin (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>12.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0340194</AMOUNT>
+        <DISPLAY_AMOUNT>1.2 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Nelson Sauvin (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>12.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.041957259999999996</AMOUNT>
+        <DISPLAY_AMOUNT>1.48 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Belgian Saison</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>78.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Giacomo Ghezzi</BREWER>
+    <BATCH_SIZE>19.986974198400002</BATCH_SIZE>
+    <BOIL_SIZE>23.98436903808</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>66.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

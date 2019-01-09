@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Oat Yuing 4</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Specialty Beer</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>23</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Millet</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>5.443101966780022</AMOUNT>
+        <DISPLAY_AMOUNT>11.9999857289928 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Rolled Oats</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Molasses</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.6803877458475027</AMOUNT>
+        <DISPLAY_AMOUNT>1.4999982161241 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Golding (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.04252429587138674</AMOUNT>
+        <DISPLAY_AMOUNT>1.50000161806687 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safbrew T-58</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>0.25</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.25 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Molasses</NAME>
+        <USE>Primary</USE>
+        <TIME>1.0</TIME>
+        <AMOUNT>24.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>24.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>1.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>davey</BREWER>
+    <BATCH_SIZE>22.71247068</BATCH_SIZE>
+    <BOIL_SIZE>28.39058835</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>40.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

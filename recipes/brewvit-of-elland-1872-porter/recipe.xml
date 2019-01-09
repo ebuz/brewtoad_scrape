@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>BrewvitÂ® of Elland 1872 Porter</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Robust Porter</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.012</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>50.0</IBU_MAX>
+      <COLOR_MIN>22.0</COLOR_MIN>
+      <COLOR_MAX>35.0</COLOR_MAX>
+      <ABV_MIN>4.8</ABV_MIN>
+      <ABV_MAX>6.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Liquid Malt Extract - Light</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>5.987419284</AMOUNT>
+        <DISPLAY_AMOUNT>13.2 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pale 2-Row (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>1.81436948</AMOUNT>
+        <DISPLAY_AMOUNT>4.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Malt (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.6236895087500001</AMOUNT>
+        <DISPLAY_AMOUNT>1.375 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>65</COLOR>
+        <DISPLAY_COLOR>65 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Amber (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.34019427750000003</AMOUNT>
+        <DISPLAY_AMOUNT>0.75 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>27</COLOR>
+        <DISPLAY_COLOR>27 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.31184475437500003</AMOUNT>
+        <DISPLAY_AMOUNT>0.6875 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>425</COLOR>
+        <DISPLAY_COLOR>425 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Target (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0907184</AMOUNT>
+        <DISPLAY_AMOUNT>3.2 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>100</TIME>
+        <DISPLAY_TIME>100.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>7.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0340194</AMOUNT>
+        <DISPLAY_AMOUNT>1.2 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>100</TIME>
+        <DISPLAY_TIME>100.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>7.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0226796</AMOUNT>
+        <DISPLAY_AMOUNT>0.8 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Target (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0226796</AMOUNT>
+        <DISPLAY_AMOUNT>0.8 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Whitbread II</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Thames Valley Ale</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>77.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Partial Mash</TYPE>
+    <BREWER>Merkin</BREWER>
+    <BATCH_SIZE>38.800470745</BATCH_SIZE>
+    <BOIL_SIZE>45.26721586916654</BOIL_SIZE>
+    <BOIL_TIME>100</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

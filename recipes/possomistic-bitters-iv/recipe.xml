@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Possomistic Bitters IV</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Extra Special/Strong Bitter (English Pale Ale)</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>50.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>18.0</COLOR_MAX>
+      <ABV_MIN>4.6</ABV_MIN>
+      <ABV_MAX>6.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>5.0</AMOUNT>
+        <DISPLAY_AMOUNT>5.0 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara Gold (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.5</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>46</COLOR>
+        <DISPLAY_COLOR>46 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Biscuit (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.25</AMOUNT>
+        <DISPLAY_AMOUNT>0.25 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>23</COLOR>
+        <DISPLAY_COLOR>23 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Southern Dawn</NAME>
+        <ORIGIN nil="true"/>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>25.0</AMOUNT>
+        <DISPLAY_AMOUNT>25.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Bramling Cross (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>25.0</AMOUNT>
+        <DISPLAY_AMOUNT>25.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>Dual Purpose Hop developed in 1965 by Professor Salmon at Wye College, England. A cross between the Bramling goldings variety and a wild Canadian Manitoban hop. Known to impart an "American" aroma in some strains.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Bramling Cross (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>15.0</AMOUNT>
+        <DISPLAY_AMOUNT>15.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>2</TIME>
+        <DISPLAY_TIME>2.0 min</DISPLAY_TIME>
+        <NOTES>Dual Purpose Hop developed in 1965 by Professor Salmon at Wye College, England. A cross between the Bramling goldings variety and a wild Canadian Manitoban hop. Known to impart an "American" aroma in some strains.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale S-04</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Brian Kilbey</BREWER>
+    <BATCH_SIZE>23.0</BATCH_SIZE>
+    <BOIL_SIZE>7.08</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

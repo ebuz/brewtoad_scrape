@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Scrooge Ale (All-Grain Conversion)</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Christmas/Winter Specialty Spiced Beer</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>6.441011654</AMOUNT>
+        <DISPLAY_AMOUNT>14.2 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel/Crystal 20L (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.635029318</AMOUNT>
+        <DISPLAY_AMOUNT>1.4 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Honey, Orange Blossom</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE></TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.45359237</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Carapils® Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.272155422</AMOUNT>
+        <DISPLAY_AMOUNT>0.6 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Special B® MD™</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>125</COLOR>
+        <DISPLAY_COLOR>125 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Target (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Styrian Golding (SI)</NAME>
+        <ORIGIN>Slovenia</ORIGIN>
+        <ALPHA>5.25</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>English Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>66.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Cinnamon Sticks</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>4.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>4.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Sweet Orange Peel</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Nutmegs (whole)</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Ginger Root (Dried)</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Greg Ambler</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>94.6352945</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>65.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

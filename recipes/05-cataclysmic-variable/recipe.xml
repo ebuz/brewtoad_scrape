@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>05. Cataclysmic Variable</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Belgian Dubbel</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.062</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>15.0</IBU_MIN>
+      <IBU_MAX>25.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>17.0</COLOR_MAX>
+      <ABV_MIN>6.0</ABV_MIN>
+      <ABV_MAX>7.6</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>3.5</AMOUNT>
+        <DISPLAY_AMOUNT>3.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>1.5</AMOUNT>
+        <DISPLAY_AMOUNT>1.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>6</COLOR>
+        <DISPLAY_COLOR>6 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cane Sugar</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>99.33059814294968</YIELD>
+        <AMOUNT>1.0</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.046</POTENTIAL>
+        <COLOR>0</COLOR>
+        <DISPLAY_COLOR>0 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara 20L (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.6</AMOUNT>
+        <DISPLAY_AMOUNT>0.6 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>22</COLOR>
+        <DISPLAY_COLOR>22 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>64.78082487583676</YIELD>
+        <AMOUNT>0.15</AMOUNT>
+        <DISPLAY_AMOUNT>0.15 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.03</POTENTIAL>
+        <COLOR>340</COLOR>
+        <DISPLAY_COLOR>340 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Perle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>17.0</AMOUNT>
+        <DISPLAY_AMOUNT>17.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>90</TIME>
+        <DISPLAY_TIME>90.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Perle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>8.0</AMOUNT>
+        <DISPLAY_AMOUNT>8.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Fermentis S-33</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Biere Curie</BREWER>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>6.336</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

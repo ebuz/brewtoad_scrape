@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Witty Friend [Extract]</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Witbier</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <TYPE>Wheat</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.052</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>10.0</IBU_MIN>
+      <IBU_MAX>20.0</IBU_MAX>
+      <COLOR_MIN>2.0</COLOR_MIN>
+      <COLOR_MAX>4.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>5.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Bavarian Wheat LME</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>1.496854821</AMOUNT>
+        <DISPLAY_AMOUNT>3.3 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Crystal (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0170097</AMOUNT>
+        <DISPLAY_AMOUNT>0.6 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES>An American triploid variety developed in 1993 from Hallertau, Cascade, Brewer's Gold and Early Green. It is spicier than Hallertau (cinnamon, black pepper, and nutmeg). Substitutes: any Hallertau variety, Mount Hood, Liberty.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Williamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.007087375</AMOUNT>
+        <DISPLAY_AMOUNT>0.25 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>Popular American development in 1976 of the English Fuggle. Named for the Willamette Valley, an important hop-growing area. It has a character similar to Fuggle, but is more fruity and has some floral notes. Used in British and American ales. A recent taste-test comparison between Ahtanum and Willamette has described some similarity between the varieties.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Belgian Wit II Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>72.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Yeast Nutrient (Wyeast)</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.25</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of vitamins, minerals, amino acids, nitrogen compounds, zinc, and other elements benefical for fermentation. Use 1/2 tsp. per five gallons, last 15 min of boil.</NOTES>
+        <DISPLAY_AMOUNT>0.25 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Orange Zest</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.125</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.125 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Coriander Seed</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.18</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.18 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>Extract</TYPE>
+    <BREWER>Nate</BREWER>
+    <BATCH_SIZE>11.35623534</BATCH_SIZE>
+    <BOIL_SIZE>12.7189835808</BOIL_SIZE>
+    <BOIL_TIME>45</BOIL_TIME>
+    <EFFICIENCY>80.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

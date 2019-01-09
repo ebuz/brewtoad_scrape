@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Riggwelter Gentler</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Northern English Brown Ale</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>11</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.04</OG_MIN>
+      <OG_MAX>1.052</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.013</FG_MAX>
+      <IBU_MIN>20.0</IBU_MIN>
+      <IBU_MAX>30.0</IBU_MAX>
+      <COLOR_MIN>12.0</COLOR_MIN>
+      <COLOR_MAX>22.0</COLOR_MAX>
+      <ABV_MIN>4.2</ABV_MIN>
+      <ABV_MAX>5.4</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale Ale Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>3.9999952429976</AMOUNT>
+        <DISPLAY_AMOUNT>8.81848 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat, Flaked</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.44999946483723</AMOUNT>
+        <DISPLAY_AMOUNT>0.992079 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>British Crystal 70-80L</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.29999964322482003</AMOUNT>
+        <DISPLAY_AMOUNT>0.661386 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>75</COLOR>
+        <DISPLAY_COLOR>75 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pale Chocolate Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.24999970268735</AMOUNT>
+        <DISPLAY_AMOUNT>0.551155 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>197</COLOR>
+        <DISPLAY_COLOR>197 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Northdown (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.030000007889999996</AMOUNT>
+        <DISPLAY_AMOUNT>1.05822 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.030000007889999996</AMOUNT>
+        <DISPLAY_AMOUNT>1.05822 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Windsor Yeast</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>danlad</BREWER>
+    <BATCH_SIZE>23.0153036224</BATCH_SIZE>
+    <BOIL_SIZE>28.8448377636</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

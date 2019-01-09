@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>BiL</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>English Barleywine</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.08</OG_MIN>
+      <OG_MAX>1.12</OG_MAX>
+      <FG_MIN>1.018</FG_MIN>
+      <FG_MAX>1.03</FG_MAX>
+      <IBU_MIN>35.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>22.0</COLOR_MAX>
+      <ABV_MIN>8.0</ABV_MIN>
+      <ABV_MAX>12.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Liquid Malt Extract - Maris Otter</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>5.4431084400000005</AMOUNT>
+        <DISPLAY_AMOUNT>12.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.09071847400000001</AMOUNT>
+        <DISPLAY_AMOUNT>0.2 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>425</COLOR>
+        <DISPLAY_COLOR>425 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Saccharomyces Bruxellensis Trois</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>85.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>Jake</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>27.254964816</BOIL_SIZE>
+    <BOIL_TIME>180</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

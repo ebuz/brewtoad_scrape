@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>#35 SflaczaÅ‚e</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Extra Special/Strong Bitter (English Pale Ale)</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>50.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>18.0</COLOR_MAX>
+      <ABV_MIN>4.6</ABV_MIN>
+      <ABV_MAX>6.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>2.19999738364868</AMOUNT>
+        <DISPLAY_AMOUNT>4.850164 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich Type I</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.339999595654796</AMOUNT>
+        <DISPLAY_AMOUNT>0.7495708 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>7</COLOR>
+        <DISPLAY_COLOR>7 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Vienna Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.24999970268735</AMOUNT>
+        <DISPLAY_AMOUNT>0.551155 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Barley, Flaked</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.09999988107494</AMOUNT>
+        <DISPLAY_AMOUNT>0.220462 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Castle Special B</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.054999934591217006</AMOUNT>
+        <DISPLAY_AMOUNT>0.1212541 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>114</COLOR>
+        <DISPLAY_COLOR>114 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>East Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.011000002893</AMOUNT>
+        <DISPLAY_AMOUNT>0.388014 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.008000002104</AMOUNT>
+        <DISPLAY_AMOUNT>0.282192 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.008000002104</AMOUNT>
+        <DISPLAY_AMOUNT>0.282192 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.003000000789</AMOUNT>
+        <DISPLAY_AMOUNT>0.105822 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.008000002104</AMOUNT>
+        <DISPLAY_AMOUNT>0.282192 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>East Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.003000000789</AMOUNT>
+        <DISPLAY_AMOUNT>0.105822 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>London Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>0.141095847798322</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.141095847798322 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>KiESWY</BREWER>
+    <BATCH_SIZE>11.9997553426</BATCH_SIZE>
+    <BOIL_SIZE>15.785167122599999</BOIL_SIZE>
+    <BOIL_TIME>70</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

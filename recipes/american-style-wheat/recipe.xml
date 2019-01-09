@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>American style wheat</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Wheat or Rye Beer</NAME>
+      <STYLE_LETTER>D</STYLE_LETTER>
+      <CATEGORY_NUMBER>6</CATEGORY_NUMBER>
+      <TYPE>Wheat</TYPE>
+      <OG_MIN>1.04</OG_MIN>
+      <OG_MAX>1.055</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.013</FG_MAX>
+      <IBU_MIN>15.0</IBU_MIN>
+      <IBU_MAX>30.0</IBU_MAX>
+      <COLOR_MIN>3.0</COLOR_MIN>
+      <COLOR_MAX>6.0</COLOR_MAX>
+      <ABV_MIN>4.0</ABV_MIN>
+      <ABV_MAX>5.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Liquid Malt Extract - Munich</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>1.496854821</AMOUNT>
+        <DISPLAY_AMOUNT>3.3 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>8</COLOR>
+        <DISPLAY_COLOR>8 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Dry Malt Extract - Pilsen</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>90.69315482617145</YIELD>
+        <AMOUNT>1.3607771100000001</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.042</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.65</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>American Ale</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>rdamms</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>20.441223612</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

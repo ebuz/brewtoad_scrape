@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Ambrosia</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Specialty Beer</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>23</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Wildflower honey</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>27.2155422</AMOUNT>
+        <DISPLAY_AMOUNT>60.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>8</COLOR>
+        <DISPLAY_COLOR>8 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Blackcurrant Wine Base</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>34.54977326711293</YIELD>
+        <AMOUNT>21.772433760000002</AMOUNT>
+        <DISPLAY_AMOUNT>48.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.016</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Merlot Must</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>34.54977326711293</YIELD>
+        <AMOUNT>21.772433760000002</AMOUNT>
+        <DISPLAY_AMOUNT>48.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.016</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Maltodextrin </NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>38.86849492550205</YIELD>
+        <AMOUNT>4.535923700000001</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.018</POTENTIAL>
+        <COLOR>0</COLOR>
+        <DISPLAY_COLOR>0 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS/>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Dry Mead Yeast (WYeast 4362)</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>111.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Potassium Metabisulfite</NAME>
+        <USE>Secondary</USE>
+        <TIME>14.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>14.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Potassium Sorbate</NAME>
+        <USE>Secondary</USE>
+        <TIME>14.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>14.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Yeast Nutrient (Wyeast)</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>16.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of vitamins, minerals, amino acids, nitrogen compounds, zinc, and other elements benefical for fermentation. Use 1/2 tsp. per five gallons, last 15 min of boil.</NOTES>
+        <DISPLAY_AMOUNT>16.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Pectic Enzyme</NAME>
+        <USE>Primary</USE>
+        <TIME>14.0</TIME>
+        <AMOUNT>12.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>12.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>14.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Jus144tice</BREWER>
+    <BATCH_SIZE>113.5623534</BATCH_SIZE>
+    <BOIL_SIZE>113.5623534</BOIL_SIZE>
+    <BOIL_TIME>0</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>scarletpimp1strun</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Flanders Red Ale</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>17</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.057</OG_MAX>
+      <FG_MIN>1.002</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>10.0</IBU_MIN>
+      <IBU_MAX>25.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>16.0</COLOR_MAX>
+      <ABV_MIN>4.6</ABV_MIN>
+      <ABV_MAX>6.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>2-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>2.9999964322482002</AMOUNT>
+        <DISPLAY_AMOUNT>6.61386 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel Malt 20L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9999988107494</AMOUNT>
+        <DISPLAY_AMOUNT>2.20462 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CARARED®</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.4999994053747</AMOUNT>
+        <DISPLAY_AMOUNT>1.10231 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>17</COLOR>
+        <DISPLAY_COLOR>17 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Amber Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.24999970268735</AMOUNT>
+        <DISPLAY_AMOUNT>0.551155 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Roasted Barley</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.09999988107494</AMOUNT>
+        <DISPLAY_AMOUNT>0.220462 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>300</COLOR>
+        <DISPLAY_COLOR>300 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Liberty (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.030000007889999996</AMOUNT>
+        <DISPLAY_AMOUNT>1.05822 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>American 1983 cross between Hallertauer Mittlefrüh (USDA 21397) and downy mildew resistant male (USDA 64035M). Spicy (cinnamon), resiny, and slightly sweet. It is an early ripening variety and similar in technical data and aroma to Hallertau Mittelfrueh. Recommended for German/American lagers. Substitutes: Mount Hood, Hallertau, Crystal.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Bramling Cross (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.02000000526</AMOUNT>
+        <DISPLAY_AMOUNT>0.70548 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Dual Purpose Hop developed in 1965 by Professor Salmon at Wye College, England. A cross between the Bramling goldings variety and a wild Canadian Manitoban hop. Known to impart an "American" aroma in some strains.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Bramling Cross (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01000000263</AMOUNT>
+        <DISPLAY_AMOUNT>0.35274 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Dual Purpose Hop developed in 1965 by Professor Salmon at Wye College, England. A cross between the Bramling goldings variety and a wild Canadian Manitoban hop. Known to impart an "American" aroma in some strains.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>10th Anniversary Blend</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Yeast Nutrient (Wyeast)</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.352739619495804</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of vitamins, minerals, amino acids, nitrogen compounds, zinc, and other elements benefical for fermentation. Use 1/2 tsp. per five gallons, last 15 min of boil.</NOTES>
+        <DISPLAY_AMOUNT>0.352739619495804 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>englishoutlaw</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

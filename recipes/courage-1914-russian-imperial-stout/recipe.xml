@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Courage 1914 Russian Imperial Stout</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Russian Imperial Stout</NAME>
+      <STYLE_LETTER>F</STYLE_LETTER>
+      <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.075</OG_MIN>
+      <OG_MAX>1.115</OG_MAX>
+      <FG_MIN>1.018</FG_MIN>
+      <FG_MAX>1.03</FG_MAX>
+      <IBU_MIN>50.0</IBU_MIN>
+      <IBU_MAX>90.0</IBU_MAX>
+      <COLOR_MIN>30.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>8.0</ABV_MIN>
+      <ABV_MAX>12.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Crisp Pale Ale Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>4.1957244327262675</AMOUNT>
+        <DISPLAY_AMOUNT>9.24998899943195 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crisp Brown</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>1.275727023464069</AMOUNT>
+        <DISPLAY_AMOUNT>2.81249665523269 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>75</COLOR>
+        <DISPLAY_COLOR>75 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Black Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>58.30274238825307</YIELD>
+        <AMOUNT>0.9219989035109468</AMOUNT>
+        <DISPLAY_AMOUNT>2.03265964 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.027</POTENTIAL>
+        <COLOR>550</COLOR>
+        <DISPLAY_COLOR>550 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>6-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.02069515732407493</AMOUNT>
+        <DISPLAY_AMOUNT>0.730000787459212 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>90</TIME>
+        <DISPLAY_TIME>90.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Pride of Ringwood (AU)</NAME>
+        <ORIGIN>Australia</ORIGIN>
+        <ALPHA>8.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.015875737125317764</AMOUNT>
+        <DISPLAY_AMOUNT>0.5600006040783 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>90</TIME>
+        <DISPLAY_TIME>90.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.025514577522832125</AMOUNT>
+        <DISPLAY_AMOUNT>0.900000970840125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>17.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.006236896727803407</AMOUNT>
+        <DISPLAY_AMOUNT>0.220000237316475 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>London Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>American Ale II</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>74.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Yeast Nutrient (Wyeast)</NAME>
+        <USE>Boil</USE>
+        <TIME>120.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of vitamins, minerals, amino acids, nitrogen compounds, zinc, and other elements benefical for fermentation. Use 1/2 tsp. per five gallons, last 15 min of boil.</NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>120.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Gypsum (Calcium Sulfate)</NAME>
+        <USE>Mash</USE>
+        <TIME>105.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>Reduces PH of water.</NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>105.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Calcium Carbonate</NAME>
+        <USE>Boil</USE>
+        <TIME>105.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>105.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Calcium Chloride</NAME>
+        <USE>Mash</USE>
+        <TIME>105.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>105.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Calcium Carbonate</NAME>
+        <USE>Mash</USE>
+        <TIME>1.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>1.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Hampshirebrewer</BREWER>
+    <BATCH_SIZE>17.03435301</BATCH_SIZE>
+    <BOIL_SIZE>26.1950495176</BOIL_SIZE>
+    <BOIL_TIME>105</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

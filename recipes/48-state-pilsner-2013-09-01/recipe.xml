@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>48-State Pilsner 2013-09-01</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Classic American Pilsner</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>2</CATEGORY_NUMBER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.015</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>40.0</IBU_MAX>
+      <COLOR_MIN>3.0</COLOR_MIN>
+      <COLOR_MAX>6.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>6.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Premium 2-Row Malt</NAME>
+        <ORIGIN>Canada</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>6.80388555</AMOUNT>
+        <DISPLAY_AMOUNT>15.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Corn, Flaked</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>1.81436948</AMOUNT>
+        <DISPLAY_AMOUNT>4.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Rice Hulls</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>0.0</YIELD>
+        <AMOUNT>0.45359237</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.0</POTENTIAL>
+        <COLOR>0</COLOR>
+        <DISPLAY_COLOR>0 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Cluster (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.07087375</AMOUNT>
+        <DISPLAY_AMOUNT>2.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Originated from mass selection of the Cluster hop, which is an old American cultivar. It is suggested that they arose from hybridization of varieties, imported by Dutch and English settlers and indigenous male hops. There is an early ripening and a late ripening Cluster cultivar. Also known as Golden Cluster. They can give a black currant aroma/flavor. Substitutes: Brewer's Gold.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Liberty (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>25</TIME>
+        <DISPLAY_TIME>25.0 min</DISPLAY_TIME>
+        <NOTES>American 1983 cross between Hallertauer Mittlefrüh (USDA 21397) and downy mildew resistant male (USDA 64035M). Spicy (cinnamon), resiny, and slightly sweet. It is an early ripening variety and similar in technical data and aroma to Hallertau Mittelfrueh. Recommended for German/American lagers. Substitutes: Mount Hood, Hallertau, Crystal.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Liberty (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>American 1983 cross between Hallertauer Mittlefrüh (USDA 21397) and downy mildew resistant male (USDA 64035M). Spicy (cinnamon), resiny, and slightly sweet. It is an early ripening variety and similar in technical data and aroma to Hallertau Mittelfrueh. Recommended for German/American lagers. Substitutes: Mount Hood, Hallertau, Crystal.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Liberty (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.08504849999999999</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0 days</DISPLAY_TIME>
+        <NOTES>American 1983 cross between Hallertauer Mittlefrüh (USDA 21397) and downy mildew resistant male (USDA 64035M). Spicy (cinnamon), resiny, and slightly sweet. It is an early ripening variety and similar in technical data and aroma to Hallertau Mittelfrueh. Recommended for German/American lagers. Substitutes: Mount Hood, Hallertau, Crystal.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>German Lager Yeast</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>77.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Fermcap</NAME>
+        <USE>Boil</USE>
+        <TIME>60.0</TIME>
+        <AMOUNT>0.1</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>0.1 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>60.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>3.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>3.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Five Star 5.2 pH Stabilizer</NAME>
+        <USE>Mash</USE>
+        <TIME>0.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>5.2 is a propriety blend of food-grade phosphate buffers (similar to brewer's salts) that will lock in your mash and kettle water at a pH of 5.2 regardless of the starting pH of your water. 
+
+Use approximately 1 tbs (15 ml) per 5 gallons of water.</NOTES>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>0.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Andrew Mitchell</BREWER>
+    <BATCH_SIZE>37.8541178</BATCH_SIZE>
+    <BOIL_SIZE>47.31764725</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

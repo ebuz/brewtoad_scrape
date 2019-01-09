@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Betsey the Czech </NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>German Pilsner (Pils)</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>2</CATEGORY_NUMBER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.05</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.013</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>2.0</COLOR_MIN>
+      <COLOR_MAX>5.0</COLOR_MAX>
+      <ABV_MIN>4.4</ABV_MIN>
+      <ABV_MAX>5.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner (US)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>10.886216880000001</AMOUNT>
+        <DISPLAY_AMOUNT>24.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Dry Malt Extract - Light</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>90.69315482617145</YIELD>
+        <AMOUNT>1.1339809250000001</AMOUNT>
+        <DISPLAY_AMOUNT>2.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.042</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Bravo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.035436875</AMOUNT>
+        <DISPLAY_AMOUNT>1.25 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A second generation super high alpha variety that was developed by the Hopsteiner Breeding Program and released in 2006. It has good resistance to powdery mildew. Bravo is an excellent bittering hop that provides pleasant fruity and floral aroma characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.65</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0170097</AMOUNT>
+        <DISPLAY_AMOUNT>0.6 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Golding (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.056699</AMOUNT>
+        <DISPLAY_AMOUNT>2.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Saflager S-23</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Scott Goodall</BREWER>
+    <BATCH_SIZE>41.63952958</BATCH_SIZE>
+    <BOIL_SIZE>51.10305903</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

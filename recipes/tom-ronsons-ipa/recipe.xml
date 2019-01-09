@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Tom Ronson's IPA</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American IPA</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>2-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>5.6064016932</AMOUNT>
+        <DISPLAY_AMOUNT>12.36 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crystal 60</NAME>
+        <ORIGIN>Canada</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.4672001411</AMOUNT>
+        <DISPLAY_AMOUNT>1.03 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>60</COLOR>
+        <DISPLAY_COLOR>60 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>19.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>55</TIME>
+        <DISPLAY_TIME>55.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014599992499999999</AMOUNT>
+        <DISPLAY_AMOUNT>0.515 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.026365035</AMOUNT>
+        <DISPLAY_AMOUNT>0.93 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>4320</TIME>
+        <DISPLAY_TIME>3 days</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>East Coast Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>firebad57</BREWER>
+    <BATCH_SIZE>19.494870667</BATCH_SIZE>
+    <BOIL_SIZE>23.2045742114</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

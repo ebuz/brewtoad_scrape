@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Bourbon Aged Coffee Doppelbock</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Doppelbock</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>5</CATEGORY_NUMBER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.072</OG_MIN>
+      <OG_MAX>1.112</OG_MAX>
+      <FG_MIN>1.016</FG_MIN>
+      <FG_MAX>1.024</FG_MAX>
+      <IBU_MIN>16.0</IBU_MIN>
+      <IBU_MAX>26.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>25.0</COLOR_MAX>
+      <ABV_MIN>7.0</ABV_MIN>
+      <ABV_MAX>10.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Munich Type II</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>6.010091754986251</AMOUNT>
+        <DISPLAY_AMOUNT>13.2499842424295 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>9</COLOR>
+        <DISPLAY_COLOR>9 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pilsner</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>1.8143673222600074</AMOUNT>
+        <DISPLAY_AMOUNT>3.9999952429976 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramunich II</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>46</COLOR>
+        <DISPLAY_COLOR>46 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Northern Brewer (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>German Bock Lager Yeast</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Coffee grounds</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Bourbon Barrel Chips</NAME>
+        <USE>Secondary</USE>
+        <TIME>7.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>7.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Teeerow</BREWER>
+    <BATCH_SIZE>20.781910672200002</BATCH_SIZE>
+    <BOIL_SIZE>34.7122260226</BOIL_SIZE>
+    <BOIL_TIME>120</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

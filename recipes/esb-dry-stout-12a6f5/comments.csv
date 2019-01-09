@@ -1,0 +1,7 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+23248,1643,Michael,"January 17, 2016 12:38am",Original gravity for the ESB=1.061,"['23347', '23349']"
+23347,1643,Michael,"February 07, 2016  5:50pm","Original gravity for stout=1.045
+Original gravity for mild=1.026",['23348']
+23348,1643,Michael,"February 07, 2016  5:50pm",Final gravity for mild=1.010,['23602']
+23602,1643,Michael,"April 08, 2016 10:04am",Final gravity of stout - 1.015,[]
+23349,1643,Michael,"February 07, 2016  5:59pm",Final gravity = 1.024,[]

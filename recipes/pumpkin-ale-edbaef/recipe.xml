@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Pumpkin Ale</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Spice, Herb, or Vegetable Beer</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>3.0</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Golden Promise (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>3.0</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Biscuit (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>1.3</AMOUNT>
+        <DISPLAY_AMOUNT>1.3 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>23</COLOR>
+        <DISPLAY_COLOR>23 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>0.8</AMOUNT>
+        <DISPLAY_AMOUNT>0.8 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>6</COLOR>
+        <DISPLAY_COLOR>6 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Special B (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.15</AMOUNT>
+        <DISPLAY_AMOUNT>0.15 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>115</COLOR>
+        <DISPLAY_COLOR>115 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Mount Hood (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>35.0</AMOUNT>
+        <DISPLAY_AMOUNT>35.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Soft American variety developed from Hallertau. Frequently used in styles that require only a subtle hop aroma (German/American lagers). Named for Mount Hood in Oregon. Substitutes: Liberty, Hallertau, Crystal.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Mount Hood (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>21.0</AMOUNT>
+        <DISPLAY_AMOUNT>21.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Soft American variety developed from Hallertau. Frequently used in styles that require only a subtle hop aroma (German/American lagers). Named for Mount Hood in Oregon. Substitutes: Liberty, Hallertau, Crystal.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Edinburgh Scottish Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>72.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Cubed, cooked &amp; caramelized pumpkins</NAME>
+        <USE>Mash</USE>
+        <TIME>60.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>60.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Whole Cloves</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.33333333</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.33333333 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Nutmeg (Ground)</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Ginger Root (Fresh)</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Cinnamon (Ground)</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>1.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Cubed, cooked &amp; caramelized pumpkins</NAME>
+        <USE>Boil</USE>
+        <TIME>60.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>60.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Cubed, cooked &amp; caramelized pumpkins w/ molasses</NAME>
+        <USE>Secondary</USE>
+        <TIME>7.0</TIME>
+        <AMOUNT>4.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>4.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>7.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Cavemen Brewing</BREWER>
+    <BATCH_SIZE>20.82</BATCH_SIZE>
+    <BOIL_SIZE>9.664</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

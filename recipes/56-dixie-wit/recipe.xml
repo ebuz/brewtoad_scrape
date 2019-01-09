@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>#56 Dixie Wit</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Weizen/Weissbier</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>15</CATEGORY_NUMBER>
+      <TYPE>Wheat</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.052</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>8.0</IBU_MIN>
+      <IBU_MAX>15.0</IBU_MAX>
+      <COLOR_MIN>2.0</COLOR_MIN>
+      <COLOR_MAX>8.0</COLOR_MAX>
+      <ABV_MIN>4.3</ABV_MIN>
+      <ABV_MAX>5.6</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>British Two-row Pale</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>2.0000021574225</AMOUNT>
+        <DISPLAY_AMOUNT>4.40925 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat Malt, White</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>84.21507233858777</YIELD>
+        <AMOUNT>2.0000021574225</AMOUNT>
+        <DISPLAY_AMOUNT>4.40925 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.039</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.019999983685792592</AMOUNT>
+        <DISPLAY_AMOUNT>0.705479238991608 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.004999995921448148</AMOUNT>
+        <DISPLAY_AMOUNT>0.176369809747902 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Belgian Wit Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Whirlfloc Tablet</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>0.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of Irish Moss and purified Kappa carrageenan that encourages the precipitation of haze causing materials such as proteins and Beta glucans. Prepared in a quick dissolving, highly soluble tablet form.</NOTES>
+        <DISPLAY_AMOUNT>0.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Five Star 5.2 pH Stabilizer</NAME>
+        <USE>Mash</USE>
+        <TIME>60.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>5.2 is a propriety blend of food-grade phosphate buffers (similar to brewer's salts) that will lock in your mash and kettle water at a pH of 5.2 regardless of the starting pH of your water. 
+
+Use approximately 1 tbs (15 ml) per 5 gallons of water.</NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>60.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>snuff</BREWER>
+    <BATCH_SIZE>20.062682434</BATCH_SIZE>
+    <BOIL_SIZE>25.0594259836</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

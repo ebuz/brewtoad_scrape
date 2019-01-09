@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>ESB mk. 1</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Extra Special/Strong Bitter (English Pale Ale)</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.016</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>50.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>18.0</COLOR_MAX>
+      <ABV_MIN>4.6</ABV_MIN>
+      <ABV_MAX>6.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>2-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>9.97902027243004</AMOUNT>
+        <DISPLAY_AMOUNT>21.9999738364868 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>2-Row Caramel Malt 60L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>60</COLOR>
+        <DISPLAY_COLOR>60 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Carapils® Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pale Ale Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Black Malt, Organic</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>47.50593824228028</YIELD>
+        <AMOUNT>0.11339795764125046</AMOUNT>
+        <DISPLAY_AMOUNT>0.24999970268735 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.022</POTENTIAL>
+        <COLOR>500</COLOR>
+        <DISPLAY_COLOR>500 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Centennial (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>10.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>American aroma-type variety bred in 1974 and released in September 1990 by S.T. Kenny and C.E. Zimmermann, the breeders of this variety. Similar to Cascade and Chinook. The genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/6 East kent Golding, 1/32 Bavarian and 1/16 Unknown. One of the "Three Cs" along with Cascade and Columbus. Centennial is often referred to as a 'Super Cascade', since it has a strong citrus aroma.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>5.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>English Ale Blend (WLP085)</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>cptpepper</BREWER>
+    <BATCH_SIZE>43.53223547</BATCH_SIZE>
+    <BOIL_SIZE>54.434221396400005</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>72.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,4 @@
+pale-ale-sh-stella
+pale-ale-sh-calypso
+pale-ale-sh-pacific-gem
+pale-ale-sh-summer

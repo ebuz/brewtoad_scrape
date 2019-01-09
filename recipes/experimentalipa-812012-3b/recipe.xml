@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Experimental.IPA_8.1.2012_3B</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American IPA</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Vienna Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>81.64652950170033</AMOUNT>
+        <DISPLAY_AMOUNT>179.999785934892 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Victory® Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>20.411632375425082</AMOUNT>
+        <DISPLAY_AMOUNT>44.999946483723 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>28</COLOR>
+        <DISPLAY_COLOR>28 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.17009718348554748</AMOUNT>
+        <DISPLAY_AMOUNT>6.0000064722675 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.652039203361264</AMOUNT>
+        <DISPLAY_AMOUNT>23.0000248103587 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.36854389755202094</AMOUNT>
+        <DISPLAY_AMOUNT>13.0000140232463 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.7937868562658882</AMOUNT>
+        <DISPLAY_AMOUNT>28.000030203915 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>California Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>jdm19671971</BREWER>
+    <BATCH_SIZE>344.47247198</BATCH_SIZE>
+    <BOIL_SIZE>430.590589975</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

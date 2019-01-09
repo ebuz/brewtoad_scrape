@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Love Bug</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Saison</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.002</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>20.0</IBU_MIN>
+      <IBU_MAX>35.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>5.896693797345025</AMOUNT>
+        <DISPLAY_AMOUNT>12.9999845397422 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>White Wheat</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>88.5337939969769</YIELD>
+        <AMOUNT>0.34019387292375136</AMOUNT>
+        <DISPLAY_AMOUNT>0.74999910806205 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.041</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>2-Row Caramel Malt 60L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.34019387292375136</AMOUNT>
+        <DISPLAY_AMOUNT>0.74999910806205 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>60</COLOR>
+        <DISPLAY_COLOR>60 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Apollo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>19.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.00708738264523116</AMOUNT>
+        <DISPLAY_AMOUNT>0.250000269677813 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Characterized by its exceptionally high percentage of alpha acids, excellent storage stability of alpha acids, low CoH value for an alpha variety, and resistance to hop powdery mildew strains found in Washington. The new variety was cultivated as a result of a cross in 2000 at Golden Gate Roza Hop Ranches in Prosser, Washington, and has been asexually reproduced there.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Apollo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>19.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0056699061161849165</AMOUNT>
+        <DISPLAY_AMOUNT>0.20000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Characterized by its exceptionally high percentage of alpha acids, excellent storage stability of alpha acids, low CoH value for an alpha variety, and resistance to hop powdery mildew strains found in Washington. The new variety was cultivated as a result of a cross in 2000 at Golden Gate Roza Hop Ranches in Prosser, Washington, and has been asexually reproduced there.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Brettanomyces Bruxellensis</NAME>
+        <TYPE>Bacteria</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>74.0</ATTENUATION>
+      </YEAST>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Belgian Ardennes</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>74.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Orange Peel</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.12</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.12 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Black Pepper (Whole)</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.3</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.3 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Rose Hips</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>0.12</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>Used in wines, teas, specialty beer and confections, rose hips are a versatile fruit/herb. Rich in vitamin C, the rose hip shells with the seeds removed are the best type to use for wines as the seeds can add undesirable tannins.
+</NOTES>
+        <DISPLAY_AMOUNT>0.12 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>mbstep2055</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

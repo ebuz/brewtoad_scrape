@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Foolish Fermented Flowers</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Bohemian Pilsener</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>2</CATEGORY_NUMBER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.056</OG_MAX>
+      <FG_MIN>1.013</FG_MIN>
+      <FG_MAX>1.017</FG_MAX>
+      <IBU_MIN>35.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>3.5</COLOR_MIN>
+      <COLOR_MAX>6.0</COLOR_MAX>
+      <ABV_MIN>4.2</ABV_MIN>
+      <ABV_MAX>5.4</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>6.236895087500001</AMOUNT>
+        <DISPLAY_AMOUNT>13.75 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Biscuit (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>19</COLOR>
+        <DISPLAY_COLOR>19 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Honey Malt (CA)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>25</COLOR>
+        <DISPLAY_COLOR>25 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.09922325</AMOUNT>
+        <DISPLAY_AMOUNT>3.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.07087375</AMOUNT>
+        <DISPLAY_AMOUNT>2.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Pilsner Lager Yeast</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>74.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Sweet Orange Peel</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Coriander Seed</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>ACDC Homebrew</BREWER>
+    <BATCH_SIZE>20.81976479</BATCH_SIZE>
+    <BOIL_SIZE>28.201317761000002</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

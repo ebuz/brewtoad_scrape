@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Null IPA</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>English IPA</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.05</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>60.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Amber Dry Extract</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>95.01187648456056</YIELD>
+        <AMOUNT>2.2679618500000003</AMOUNT>
+        <DISPLAY_AMOUNT>5.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.044</POTENTIAL>
+        <COLOR>12</COLOR>
+        <DISPLAY_COLOR>12 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Sugar</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>97.17123731375511</YIELD>
+        <AMOUNT>1.3607771100000001</AMOUNT>
+        <DISPLAY_AMOUNT>3.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.045</POTENTIAL>
+        <COLOR>15</COLOR>
+        <DISPLAY_COLOR>15 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>40</TIME>
+        <DISPLAY_TIME>40.0 min</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.01417475</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>California Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>BaileyDog Brewing</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>22.71247068</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

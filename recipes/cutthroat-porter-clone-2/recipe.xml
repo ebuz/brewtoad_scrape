@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Cutthroat Porter Clone</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Brown Porter</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.04</OG_MIN>
+      <OG_MAX>1.052</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>18.0</IBU_MIN>
+      <IBU_MAX>35.0</IBU_MAX>
+      <COLOR_MIN>20.0</COLOR_MIN>
+      <COLOR_MAX>30.0</COLOR_MAX>
+      <ABV_MIN>4.0</ABV_MIN>
+      <ABV_MAX>5.4</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>American 2-Row</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>8.981128926</AMOUNT>
+        <DISPLAY_AMOUNT>19.8 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.4989516070000001</AMOUNT>
+        <DISPLAY_AMOUNT>1.1 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>350</COLOR>
+        <DISPLAY_COLOR>350 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crystal Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.4989516070000001</AMOUNT>
+        <DISPLAY_AMOUNT>1.1 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>101</COLOR>
+        <DISPLAY_COLOR>101 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crystal 40</NAME>
+        <ORIGIN>Canada</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.37421370525</AMOUNT>
+        <DISPLAY_AMOUNT>0.825 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>40</COLOR>
+        <DISPLAY_COLOR>40 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.24947580350000004</AMOUNT>
+        <DISPLAY_AMOUNT>0.55 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>7</COLOR>
+        <DISPLAY_COLOR>7 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.24947580350000004</AMOUNT>
+        <DISPLAY_AMOUNT>0.55 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>56</COLOR>
+        <DISPLAY_COLOR>56 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Roasted Barley</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.12473790175000002</AMOUNT>
+        <DISPLAY_AMOUNT>0.275 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>300</COLOR>
+        <DISPLAY_COLOR>300 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.15592224999999998</AMOUNT>
+        <DISPLAY_AMOUNT>5.5 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Kent Golding (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>4.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.031184450000000002</AMOUNT>
+        <DISPLAY_AMOUNT>1.1 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.015592225000000001</AMOUNT>
+        <DISPLAY_AMOUNT>0.55 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.015592225000000001</AMOUNT>
+        <DISPLAY_AMOUNT>0.55 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale US-05</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>5.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>5.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Gypsum (Calcium Sulfate)</NAME>
+        <USE>Mash</USE>
+        <TIME>1.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>Reduces PH of water.</NOTES>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>1.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Calcium Carbonate</NAME>
+        <USE>Mash</USE>
+        <TIME>0.017</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>0.017 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>colesigmon</BREWER>
+    <BATCH_SIZE>41.63952958</BATCH_SIZE>
+    <BOIL_SIZE>52.049411975</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

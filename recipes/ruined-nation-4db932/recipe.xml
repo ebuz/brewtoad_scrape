@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Ruined nation</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American IPA</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>4.5</AMOUNT>
+        <DISPLAY_AMOUNT>4.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Dark Crystal 80L (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.4</AMOUNT>
+        <DISPLAY_AMOUNT>0.4 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Mosaic™ (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>20.0</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A complex array of tropical fruit, citrus, berry, herbal, earthy and pine characteristics. Released in 2012 by the Hop Breeding Company LLC
+</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Centennial (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0</AMOUNT>
+        <DISPLAY_AMOUNT>30.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES>American aroma-type variety bred in 1974 and released in September 1990 by S.T. Kenny and C.E. Zimmermann, the breeders of this variety. Similar to Cascade and Chinook. The genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/6 East kent Golding, 1/32 Bavarian and 1/16 Unknown. One of the "Three Cs" along with Cascade and Columbus. Centennial is often referred to as a 'Super Cascade', since it has a strong citrus aroma.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Centennial (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>American aroma-type variety bred in 1974 and released in September 1990 by S.T. Kenny and C.E. Zimmermann, the breeders of this variety. Similar to Cascade and Chinook. The genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/6 East kent Golding, 1/32 Bavarian and 1/16 Unknown. One of the "Three Cs" along with Cascade and Columbus. Centennial is often referred to as a 'Super Cascade', since it has a strong citrus aroma.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Mosaic™ (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>A complex array of tropical fruit, citrus, berry, herbal, earthy and pine characteristics. Released in 2012 by the Hop Breeding Company LLC
+</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Mosaic™ (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>A complex array of tropical fruit, citrus, berry, herbal, earthy and pine characteristics. Released in 2012 by the Hop Breeding Company LLC
+</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Centennial (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>American aroma-type variety bred in 1974 and released in September 1990 by S.T. Kenny and C.E. Zimmermann, the breeders of this variety. Similar to Cascade and Chinook. The genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/6 East kent Golding, 1/32 Bavarian and 1/16 Unknown. One of the "Three Cs" along with Cascade and Columbus. Centennial is often referred to as a 'Super Cascade', since it has a strong citrus aroma.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Centennial (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>10.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>50.0</AMOUNT>
+        <DISPLAY_AMOUNT>50.0 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5760</TIME>
+        <DISPLAY_TIME>4 days</DISPLAY_TIME>
+        <NOTES>American aroma-type variety bred in 1974 and released in September 1990 by S.T. Kenny and C.E. Zimmermann, the breeders of this variety. Similar to Cascade and Chinook. The genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/6 East kent Golding, 1/32 Bavarian and 1/16 Unknown. One of the "Three Cs" along with Cascade and Columbus. Centennial is often referred to as a 'Super Cascade', since it has a strong citrus aroma.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale US-05</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>85.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Fieldini</BREWER>
+    <BATCH_SIZE>18.0</BATCH_SIZE>
+    <BOIL_SIZE>11.29</BOIL_SIZE>
+    <BOIL_TIME>90</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

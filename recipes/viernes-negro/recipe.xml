@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Viernes Negro</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Stout</NAME>
+      <STYLE_LETTER>E</STYLE_LETTER>
+      <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.05</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.022</FG_MAX>
+      <IBU_MIN>35.0</IBU_MIN>
+      <IBU_MAX>75.0</IBU_MAX>
+      <COLOR_MIN>30.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>6-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>4.535918305650018</AMOUNT>
+        <DISPLAY_AMOUNT>9.999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Belgian Special B</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>64.78082487583676</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.03</POTENTIAL>
+        <COLOR>220</COLOR>
+        <DISPLAY_COLOR>220 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>350</COLOR>
+        <DISPLAY_COLOR>350 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Roasted Barley</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>300</COLOR>
+        <DISPLAY_COLOR>300 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Oat Flakes</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>66.94018570503131</YIELD>
+        <AMOUNT>0.22679591528250093</AMOUNT>
+        <DISPLAY_AMOUNT>0.4999994053747 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.031</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Magnum (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>12.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale S-04</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Irish Moss</NAME>
+        <USE>Boil</USE>
+        <TIME>1.0</TIME>
+        <AMOUNT>0.25</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>0.25 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>1.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Gypsum (Calcium Sulfate)</NAME>
+        <USE>Boil</USE>
+        <TIME>60.0</TIME>
+        <AMOUNT>2.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>Reduces PH of water.</NOTES>
+        <DISPLAY_AMOUNT>2.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>60.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Coffee, Cold-Brewed (Kona)</NAME>
+        <USE>Bottle</USE>
+        <TIME>1.0</TIME>
+        <AMOUNT>0.5</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>0.5 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>1.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>benray17</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

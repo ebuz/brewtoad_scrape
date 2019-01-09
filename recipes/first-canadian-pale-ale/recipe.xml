@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>First Canadian (Pale Ale)</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>English IPA</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.05</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>60.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>84.21507233858777</YIELD>
+        <AMOUNT>2.5</AMOUNT>
+        <DISPLAY_AMOUNT>2.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.039</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CaraBelge (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.7</AMOUNT>
+        <DISPLAY_AMOUNT>0.7 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>13</COLOR>
+        <DISPLAY_COLOR>13 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>8.0</AMOUNT>
+        <DISPLAY_AMOUNT>8.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>9.0</AMOUNT>
+        <DISPLAY_AMOUNT>9.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>9.0</AMOUNT>
+        <DISPLAY_AMOUNT>9.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Very successful and well-established American aroma hop developed by Oregon State University's breeding program in 1956 from Fuggle and Serebrianker (a Russian variety), but not released for cultivation until 1972. Gives the distinct citrus/grapefruit aroma to the Pale Ale produced by California's Sierra Nevada Brewing Company, the best-selling American pale ale in the country. One of the "Three Cs" along with Centennial and Columbus. Named for the Cascade Range. Substitutes: Centennial and Columbus (but they have a higher Alpha Acid content).</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale S-04</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Bruno Barreto</BREWER>
+    <BATCH_SIZE>11.0</BATCH_SIZE>
+    <BOIL_SIZE>3.31</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>65.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>CC Pale</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Pale Ale</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>10</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.045</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.015</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>6.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale Ale Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>114.999863236181</AMOUNT>
+        <DISPLAY_AMOUNT>253.5313 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Pale Crystal ()</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>4.999994053747</AMOUNT>
+        <DISPLAY_AMOUNT>11.0231 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramalt ()</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>4.999994053747</AMOUNT>
+        <DISPLAY_AMOUNT>11.0231 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>15</COLOR>
+        <DISPLAY_COLOR>15 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crystal Rye Malt ()</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>1.9999976214988</AMOUNT>
+        <DISPLAY_AMOUNT>4.40924 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat, Torrified ()</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.9999988107494</AMOUNT>
+        <DISPLAY_AMOUNT>2.20462 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.25000006575</AMOUNT>
+        <DISPLAY_AMOUNT>8.8185 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Leaf</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.25000006575</AMOUNT>
+        <DISPLAY_AMOUNT>8.8185 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.25000006575</AMOUNT>
+        <DISPLAY_AMOUNT>8.8185 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.25000006575</AMOUNT>
+        <DISPLAY_AMOUNT>8.8185 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.25000006575</AMOUNT>
+        <DISPLAY_AMOUNT>8.8185 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.5000001315</AMOUNT>
+        <DISPLAY_AMOUNT>17.637 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.5000001315</AMOUNT>
+        <DISPLAY_AMOUNT>17.637 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Galaxy (AU)</NAME>
+        <ORIGIN>Australia</ORIGIN>
+        <ALPHA>13.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.5000001315</AMOUNT>
+        <DISPLAY_AMOUNT>17.637 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5760</TIME>
+        <DISPLAY_TIME>4 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.5000001315</AMOUNT>
+        <DISPLAY_AMOUNT>17.637 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5760</TIME>
+        <DISPLAY_TIME>4 days</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale US-05</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>tomethy</BREWER>
+    <BATCH_SIZE>599.98776713</BATCH_SIZE>
+    <BOIL_SIZE>799.9710714674001</BOIL_SIZE>
+    <BOIL_TIME>75</BOIL_TIME>
+    <EFFICIENCY>83.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

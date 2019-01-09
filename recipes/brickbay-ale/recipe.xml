@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Brickbay Ale</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Amber Ale</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>10</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.045</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.015</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>40.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>17.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>6.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Munich Amber Extract</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>3.9999952429976</AMOUNT>
+        <DISPLAY_AMOUNT>3.9999952429976 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>9</COLOR>
+        <DISPLAY_COLOR>9 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>2-Row Brewers Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>1.50252293874657</AMOUNT>
+        <DISPLAY_AMOUNT>1.50252293874657 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>6.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0000323613375</AMOUNT>
+        <DISPLAY_AMOUNT>30.0000323613375 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Plug</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>19.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>29.9938278208945</AMOUNT>
+        <DISPLAY_AMOUNT>29.9938278208945 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>6.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0000323613375</AMOUNT>
+        <DISPLAY_AMOUNT>30.0000323613375 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>California Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>76.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Partial Mash</TYPE>
+    <BREWER>phe</BREWER>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>25.06</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

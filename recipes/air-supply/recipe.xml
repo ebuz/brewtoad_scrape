@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>air supply</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>California Common Beer</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>7</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.054</OG_MAX>
+      <FG_MIN>1.011</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>5.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Coopers Amber malt extract</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>3.0333953669034486</AMOUNT>
+        <DISPLAY_AMOUNT>6.68749204688661 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>34</COLOR>
+        <DISPLAY_COLOR>34 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Sparkling Amber DME</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>10</COLOR>
+        <DISPLAY_COLOR>10 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Cluster (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.03543691322615565</AMOUNT>
+        <DISPLAY_AMOUNT>1.25000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Originated from mass selection of the Cluster hop, which is an old American cultivar. It is suggested that they arose from hybridization of varieties, imported by Dutch and English settlers and indigenous male hops. There is an early ripening and a late ripening Cluster cultivar. Also known as Golden Cluster. They can give a black currant aroma/flavor. Substitutes: Brewer's Gold.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.031893221903540256</AMOUNT>
+        <DISPLAY_AMOUNT>1.12500121355016 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Saflager S-23</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>deez nutz</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

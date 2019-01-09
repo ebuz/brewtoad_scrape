@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>maybe american barleywine</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Barleywine</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.08</OG_MIN>
+      <OG_MAX>1.12</OG_MAX>
+      <FG_MIN>1.016</FG_MIN>
+      <FG_MAX>1.03</FG_MAX>
+      <IBU_MIN>50.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>19.0</COLOR_MAX>
+      <ABV_MIN>8.0</ABV_MIN>
+      <ABV_MAX>12.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Great Western Northwest Pale Ale Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>4.082326475085017</AMOUNT>
+        <DISPLAY_AMOUNT>8.9999892967446 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Munich Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>1.3607754916950054</AMOUNT>
+        <DISPLAY_AMOUNT>2.9999964322482 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>7</COLOR>
+        <DISPLAY_COLOR>7 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>American Vienna</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>White Wheat</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>88.5337939969769</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.041</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.04252429587138674</AMOUNT>
+        <DISPLAY_AMOUNT>1.50000161806687 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Columbus (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>15.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES>A high yielding, high alpha acid American bittering hop. Also known by the trade name Tomahawk. One of the "Three Cs" along with Cascade and Centennial. Like the others it is citrusy and slightly woody. Columbus has a very high amount of total oils, and can impart a 'resiny' quality to a beer. Substitutes for bittering: Nugget, Chinook. Substitutes for aroma and flavor: Cascade, Centennial.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>American Ale II</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>cascades</BREWER>
+    <BATCH_SIZE>15.14164712</BATCH_SIZE>
+    <BOIL_SIZE>18.9270589</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

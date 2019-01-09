@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Noble IPA Saaz 40</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American IPA</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Coopers Light LME</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>2.9999964322482002</AMOUNT>
+        <DISPLAY_AMOUNT>6.61386 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Light Liquid Malt Extract</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>1.79999785934892</AMOUNT>
+        <DISPLAY_AMOUNT>3.968316 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.055000014465</AMOUNT>
+        <DISPLAY_AMOUNT>1.94007 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.047000012360999995</AMOUNT>
+        <DISPLAY_AMOUNT>1.657878 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.048000012624</AMOUNT>
+        <DISPLAY_AMOUNT>1.693152 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.039000010257</AMOUNT>
+        <DISPLAY_AMOUNT>1.375686 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05800001525399999</AMOUNT>
+        <DISPLAY_AMOUNT>2.045892 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>2.9</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.053000013939</AMOUNT>
+        <DISPLAY_AMOUNT>1.869522 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>SafAle English Ale</NAME>
+        <TYPE></TYPE>
+        <FORM></FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>baptistsandbootleggers</BREWER>
+    <BATCH_SIZE>21.9932424418</BATCH_SIZE>
+    <BOIL_SIZE>25.816508339600002</BOIL_SIZE>
+    <BOIL_TIME>45</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Christmas Wee Heavy III</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Specialty Beer</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>23</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.0</OG_MIN>
+      <OG_MAX>1.15</OG_MAX>
+      <FG_MIN>1.0</FG_MIN>
+      <FG_MAX>1.15</FG_MAX>
+      <IBU_MIN>0.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>0.0</COLOR_MIN>
+      <COLOR_MAX>40.0</COLOR_MAX>
+      <ABV_MIN>1.0</ABV_MIN>
+      <ABV_MAX>14.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsen Light LME</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Liquid Extract</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>4.082331330000001</AMOUNT>
+        <DISPLAY_AMOUNT>9.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Golden Promise</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>0.45359237</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel Malt 40L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.45359237</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>40</COLOR>
+        <DISPLAY_COLOR>40 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Brown Sugar, Dark</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>99.33059814294968</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.046</POTENTIAL>
+        <COLOR>50</COLOR>
+        <DISPLAY_COLOR>50 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Château Biscuit®</NAME>
+        <ORIGIN>Belgium</ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.226796185</AMOUNT>
+        <DISPLAY_AMOUNT>0.5 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>23</COLOR>
+        <DISPLAY_COLOR>23 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.17009713875000002</AMOUNT>
+        <DISPLAY_AMOUNT>0.375 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>350</COLOR>
+        <DISPLAY_COLOR>350 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Black Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Roasted Malt</TYPE>
+        <YIELD>69.09954653422587</YIELD>
+        <AMOUNT>0.05669904625</AMOUNT>
+        <DISPLAY_AMOUNT>0.125 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.032</POTENTIAL>
+        <COLOR>500</COLOR>
+        <DISPLAY_COLOR>500 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Chocolate Wheat Malt (Roasted Malt)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.05669904625</AMOUNT>
+        <DISPLAY_AMOUNT>0.125 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>375</COLOR>
+        <DISPLAY_COLOR>375 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.019844671406647203</AMOUNT>
+        <DISPLAY_AMOUNT>0.700000755097875 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>9.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0056699</AMOUNT>
+        <DISPLAY_AMOUNT>0.2 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>9.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174762232369832</AMOUNT>
+        <DISPLAY_AMOUNT>0.5000004314845 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>9.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.00850486529046229</AMOUNT>
+        <DISPLAY_AMOUNT>0.300000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Chinook (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.03401940611618492</AMOUNT>
+        <DISPLAY_AMOUNT>1.20000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>14400</TIME>
+        <DISPLAY_TIME>10 days</DISPLAY_TIME>
+        <NOTES>This green bine cultivar (W-421-38) was released in May 1985 in Washington State and Idaho from a cross between a Petham Golding and a USDA-selected male (63012M). Slightly spicy and very piney. Its alpha acid content ranges from 12 to 14%. Substitutes for bittering: Eroica, Galena, Nugget. Substitutes for aroma and flavor: Southern Cross, Sticklebract.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Northern Brewer (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>9.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0283495</AMOUNT>
+        <DISPLAY_AMOUNT>1.0 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>14400</TIME>
+        <DISPLAY_TIME>10 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Edinburgh Scottish Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Partial Mash</TYPE>
+    <BREWER>mmager</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>French Torpedo</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Imperial IPA</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.07</OG_MIN>
+      <OG_MAX>1.09</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.02</FG_MAX>
+      <IBU_MIN>60.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>7.5</ABV_MIN>
+      <ABV_MAX>10.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>English Two Row</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>6.350285627910026</AMOUNT>
+        <DISPLAY_AMOUNT>13.9999833504916 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>2-Row Caramel Malt 60L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>60</COLOR>
+        <DISPLAY_COLOR>60 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Magnum (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>12.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.06378644380708023</AMOUNT>
+        <DISPLAY_AMOUNT>2.25000242710031 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Magnum (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Crystal (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>An American triploid variety developed in 1993 from Hallertau, Cascade, Brewer's Gold and Early Green. It is spicier than Hallertau (cinnamon, black pepper, and nutmeg). Substitutes: any Hallertau variety, Mount Hood, Liberty.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Crystal (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.021262147935693424</AMOUNT>
+        <DISPLAY_AMOUNT>0.750000809033437 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES>An American triploid variety developed in 1993 from Hallertau, Cascade, Brewer's Gold and Early Green. It is spicier than Hallertau (cinnamon, black pepper, and nutmeg). Substitutes: any Hallertau variety, Mount Hood, Liberty.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Magnum (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.021262147935693424</AMOUNT>
+        <DISPLAY_AMOUNT>0.750000809033437 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Citra (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.021262147935693424</AMOUNT>
+        <DISPLAY_AMOUNT>0.750000809033437 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES>Citra Brand is a registered trademark used with HBC 394 cv special aroma hop variety developed by the Hop Breeding Company (a joint venture between John I. Haas, Inc. and Select Botanicals Group, LLC). It was released in 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra Brand hops imparts interesting citrus and tropical fruit characters to beer.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>California Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>72.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>JohnMarsters</BREWER>
+    <BATCH_SIZE>22.71247068</BATCH_SIZE>
+    <BOIL_SIZE>28.39058835</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

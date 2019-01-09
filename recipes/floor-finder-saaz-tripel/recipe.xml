@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Floor Finder Saaz Tripel</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Belgian Tripel</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.075</OG_MIN>
+      <OG_MAX>1.085</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.014</FG_MAX>
+      <IBU_MIN>20.0</IBU_MIN>
+      <IBU_MAX>40.0</IBU_MAX>
+      <COLOR_MIN>4.5</COLOR_MIN>
+      <COLOR_MAX>7.0</COLOR_MAX>
+      <ABV_MIN>7.5</ABV_MIN>
+      <ABV_MAX>9.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Golden Light DME</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>92.852515655366</YIELD>
+        <AMOUNT>4.252423411546895</AMOUNT>
+        <DISPLAY_AMOUNT>9.37498885077563 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.043</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Invert Sugar</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>99.33059814294968</YIELD>
+        <AMOUNT>0.7937857034887532</AMOUNT>
+        <DISPLAY_AMOUNT>1.74999791881145 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.046</POTENTIAL>
+        <COLOR>0</COLOR>
+        <DISPLAY_COLOR>0 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel Malt 20L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.22679591528250093</AMOUNT>
+        <DISPLAY_AMOUNT>0.4999994053747 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>3.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0708738264523116</AMOUNT>
+        <DISPLAY_AMOUNT>2.50000269677813 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (CZ)</NAME>
+        <ORIGIN>Czech Republic</ORIGIN>
+        <ALPHA>3.6</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.014174765290462292</AMOUNT>
+        <DISPLAY_AMOUNT>0.500000539355625 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Trappist High Gravity</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>77.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Partial Mash</TYPE>
+    <BREWER>kangaroo</BREWER>
+    <BATCH_SIZE>22.71247068</BATCH_SIZE>
+    <BOIL_SIZE>26.725007166799998</BOIL_SIZE>
+    <BOIL_TIME>45</BOIL_TIME>
+    <EFFICIENCY>60.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

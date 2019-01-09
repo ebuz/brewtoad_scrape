@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Reworked NC Class Beer 2: Erik is COBRA COMMANDER</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Imperial IPA</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.07</OG_MIN>
+      <OG_MAX>1.09</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.02</FG_MAX>
+      <IBU_MIN>60.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>7.5</ABV_MIN>
+      <ABV_MAX>10.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Malt, 2 Row, US</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>6.803877458475028</AMOUNT>
+        <DISPLAY_AMOUNT>14.999982161241 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>American Crystal 15L</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.6803877458475027</AMOUNT>
+        <DISPLAY_AMOUNT>1.4999982161241 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>15</COLOR>
+        <DISPLAY_COLOR>15 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>American Crystal 30L</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.5669897882062522</AMOUNT>
+        <DISPLAY_AMOUNT>1.24999851343675 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>30</COLOR>
+        <DISPLAY_COLOR>30 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Vienna Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.2834948941031261</AMOUNT>
+        <DISPLAY_AMOUNT>0.624999256718375 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Galena (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.04252429587138674</AMOUNT>
+        <DISPLAY_AMOUNT>1.50000161806687 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>A cultivar developed in 1968 from Brewer's Gold by open pollination in Idaho. An open pollination means that the male hop is unknown. The alpha acid content is relatively high—11.5 to 13.5%—but its co-humulone content and its beta acid range are also high.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Summit (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>18.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Useful for barleywines, stouts and IPAs. Alpha acid 17-19%. Trademarked.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Galena (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.04252429587138674</AMOUNT>
+        <DISPLAY_AMOUNT>1.50000161806687 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>A cultivar developed in 1968 from Brewer's Gold by open pollination in Idaho. An open pollination means that the male hop is unknown. The alpha acid content is relatively high—11.5 to 13.5%—but its co-humulone content and its beta acid range are also high.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hallertau (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Summit (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>18.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.028349530580924584</AMOUNT>
+        <DISPLAY_AMOUNT>1.00000107871125 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES>Useful for barleywines, stouts and IPAs. Alpha acid 17-19%. Trademarked.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Zythos (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.4</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.05669906116184917</AMOUNT>
+        <DISPLAY_AMOUNT>2.0000021574225 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1440</TIME>
+        <DISPLAY_TIME>1 days</DISPLAY_TIME>
+        <NOTES>Actually a blend of American hops, specifically designed by Hop Union for American Pale Ale (APA) and India Pale Ale (IPA) style beers. Reportedly a blend of Simcoe, Citra, Pallisade and Amarillo, it has distinct tropical (pineapple) and citrus tones, with slight pine characteristics.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Northwest Ale</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>69.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>jaredlewinski</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>23.658823625</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

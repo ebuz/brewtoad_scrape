@@ -1,0 +1,6 @@
+single-hop-series-galaxy
+single-hop-series-magnum
+single-hop-series-summit
+summit-and-citra-ipa
+single-hop-series-citra
+single-hop-series-amirillo

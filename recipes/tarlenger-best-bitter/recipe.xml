@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Tarlenger Best Bitter</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Special/Best/Premium Bitter</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.04</OG_MIN>
+      <OG_MAX>1.048</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>40.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>16.0</COLOR_MAX>
+      <ABV_MIN>3.8</ABV_MIN>
+      <ABV_MAX>4.6</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale Ale Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>2.721550983390011</AMOUNT>
+        <DISPLAY_AMOUNT>5.9999928644964 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Canadian 2-Row Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Crystal 45</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.2834948941031261</AMOUNT>
+        <DISPLAY_AMOUNT>0.624999256718375 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>45</COLOR>
+        <DISPLAY_COLOR>45 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Carapils® Malt</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.11339795764125046</AMOUNT>
+        <DISPLAY_AMOUNT>0.24999970268735 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Wheat Malt, White</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>84.21507233858777</YIELD>
+        <AMOUNT>0.11339795764125046</AMOUNT>
+        <DISPLAY_AMOUNT>0.24999970268735 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.039</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel Malt 20L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.11339795764125046</AMOUNT>
+        <DISPLAY_AMOUNT>0.24999970268735 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>20</COLOR>
+        <DISPLAY_COLOR>20 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>7.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.011339812232369833</AMOUNT>
+        <DISPLAY_AMOUNT>0.4000004314845 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Target (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>11.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.011339812232369833</AMOUNT>
+        <DISPLAY_AMOUNT>0.4000004314845 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Pilgrim (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>11.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.001000000263</AMOUNT>
+        <DISPLAY_AMOUNT>0.035274 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Admiral (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>14.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.001000000263</AMOUNT>
+        <DISPLAY_AMOUNT>0.035274 oz</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES>An English bittering hop used in some English ales. Substitutes: Target, Northdown, Challenger.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Fuggle (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>4.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.011339812232369833</AMOUNT>
+        <DISPLAY_AMOUNT>0.4000004314845 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>7.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.008504859174277372</AMOUNT>
+        <DISPLAY_AMOUNT>0.300000323613375 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Yorkshire Square Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>70.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Jason Rudkin</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>25.2486965726</BOIL_SIZE>
+    <BOIL_TIME>75</BOIL_TIME>
+    <EFFICIENCY>70.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

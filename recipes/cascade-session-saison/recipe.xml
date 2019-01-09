@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Cascade Session Saison</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Saison</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.048</OG_MIN>
+      <OG_MAX>1.065</OG_MAX>
+      <FG_MIN>1.002</FG_MIN>
+      <FG_MAX>1.012</FG_MAX>
+      <IBU_MIN>20.0</IBU_MIN>
+      <IBU_MAX>35.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Golden Promise (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>79.89635068019865</YIELD>
+        <AMOUNT>3.25</AMOUNT>
+        <DISPLAY_AMOUNT>3.25 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.037</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Vienna (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Kilned Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.6</AMOUNT>
+        <DISPLAY_AMOUNT>0.6 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>4</COLOR>
+        <DISPLAY_COLOR>4 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Cascade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>24.0</AMOUNT>
+        <DISPLAY_AMOUNT>24.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES>Very successful and well-established American aroma hop developed by Oregon State University's breeding program in 1956 from Fuggle and Serebrianker (a Russian variety), but not released for cultivation until 1972. Gives the distinct citrus/grapefruit aroma to the Pale Ale produced by California's Sierra Nevada Brewing Company, the best-selling American pale ale in the country. One of the "Three Cs" along with Centennial and Columbus. Named for the Cascade Range. Substitutes: Centennial and Columbus (but they have a higher Alpha Acid content).</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>14.0</AMOUNT>
+        <DISPLAY_AMOUNT>14.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Very successful and well-established American aroma hop developed by Oregon State University's breeding program in 1956 from Fuggle and Serebrianker (a Russian variety), but not released for cultivation until 1972. Gives the distinct citrus/grapefruit aroma to the Pale Ale produced by California's Sierra Nevada Brewing Company, the best-selling American pale ale in the country. One of the "Three Cs" along with Centennial and Columbus. Named for the Cascade Range. Substitutes: Centennial and Columbus (but they have a higher Alpha Acid content).</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>22.0</AMOUNT>
+        <DISPLAY_AMOUNT>22.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>Very successful and well-established American aroma hop developed by Oregon State University's breeding program in 1956 from Fuggle and Serebrianker (a Russian variety), but not released for cultivation until 1972. Gives the distinct citrus/grapefruit aroma to the Pale Ale produced by California's Sierra Nevada Brewing Company, the best-selling American pale ale in the country. One of the "Three Cs" along with Centennial and Columbus. Named for the Cascade Range. Substitutes: Centennial and Columbus (but they have a higher Alpha Acid content).</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>7.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>20.0</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>7200</TIME>
+        <DISPLAY_TIME>5 days</DISPLAY_TIME>
+        <NOTES>Very successful and well-established American aroma hop developed by Oregon State University's breeding program in 1956 from Fuggle and Serebrianker (a Russian variety), but not released for cultivation until 1972. Gives the distinct citrus/grapefruit aroma to the Pale Ale produced by California's Sierra Nevada Brewing Company, the best-selling American pale ale in the country. One of the "Three Cs" along with Centennial and Columbus. Named for the Cascade Range. Substitutes: Centennial and Columbus (but they have a higher Alpha Acid content).</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>French Saison</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>83.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Dove</BREWER>
+    <BATCH_SIZE>24.0</BATCH_SIZE>
+    <BOIL_SIZE>7.608</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

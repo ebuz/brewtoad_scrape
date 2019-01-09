@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Lexy Green C4 Bourbon Barrel Barleywine</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Barleywine</NAME>
+      <STYLE_LETTER>C</STYLE_LETTER>
+      <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.08</OG_MIN>
+      <OG_MAX>1.12</OG_MAX>
+      <FG_MIN>1.016</FG_MIN>
+      <FG_MAX>1.03</FG_MAX>
+      <IBU_MIN>50.0</IBU_MIN>
+      <IBU_MAX>120.0</IBU_MAX>
+      <COLOR_MIN>10.0</COLOR_MIN>
+      <COLOR_MAX>19.0</COLOR_MAX>
+      <ABV_MIN>8.0</ABV_MIN>
+      <ABV_MAX>12.0</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Maris Otter Pale Ale Malt</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>7.25746928904003</AMOUNT>
+        <DISPLAY_AMOUNT>15.9999809719904 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cherrywood Smoke Malt</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>CARAREDÂ®</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.9071836611300037</AMOUNT>
+        <DISPLAY_AMOUNT>1.9999976214988 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>17</COLOR>
+        <DISPLAY_COLOR>17 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Corn Syrup</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.45359183056500185</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 lb</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>180</TIME>
+        <DISPLAY_TIME>180.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>175</TIME>
+        <DISPLAY_TIME>175.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>170</TIME>
+        <DISPLAY_TIME>170.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>165</TIME>
+        <DISPLAY_TIME>165.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>160</TIME>
+        <DISPLAY_TIME>160.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>155</TIME>
+        <DISPLAY_TIME>155.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>150</TIME>
+        <DISPLAY_TIME>150.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>145</TIME>
+        <DISPLAY_TIME>145.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>140</TIME>
+        <DISPLAY_TIME>140.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>135</TIME>
+        <DISPLAY_TIME>135.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>130</TIME>
+        <DISPLAY_TIME>130.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>125</TIME>
+        <DISPLAY_TIME>125.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>120</TIME>
+        <DISPLAY_TIME>120.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>115</TIME>
+        <DISPLAY_TIME>115.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>110</TIME>
+        <DISPLAY_TIME>110.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>105</TIME>
+        <DISPLAY_TIME>105.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>100</TIME>
+        <DISPLAY_TIME>100.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>95</TIME>
+        <DISPLAY_TIME>95.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>90</TIME>
+        <DISPLAY_TIME>90.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>85</TIME>
+        <DISPLAY_TIME>85.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>80</TIME>
+        <DISPLAY_TIME>80.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>70</TIME>
+        <DISPLAY_TIME>70.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>65</TIME>
+        <DISPLAY_TIME>65.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>55</TIME>
+        <DISPLAY_TIME>55.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>50</TIME>
+        <DISPLAY_TIME>50.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>40</TIME>
+        <DISPLAY_TIME>40.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>35</TIME>
+        <DISPLAY_TIME>35.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>25</TIME>
+        <DISPLAY_TIME>25.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.0035436913226155656</AMOUNT>
+        <DISPLAY_AMOUNT>0.125000134838906 oz</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Leaf</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Lexy Green C4</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>0.09922335703323588</AMOUNT>
+        <DISPLAY_AMOUNT>3.50000377548937 oz</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>20160</TIME>
+        <DISPLAY_TIME>14 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Belgian Abbey II</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Bourbon Barrel Chips</NAME>
+        <USE>Secondary</USE>
+        <TIME>42.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>42.0 </DISPLAY_TIME>
+      </MISC>
+      <MISC>
+        <NAME>Dried Halved Black Mission Figs</NAME>
+        <USE>Secondary</USE>
+        <TIME>42.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES nil="true"/>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>42.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Ryan White</BREWER>
+    <BATCH_SIZE>18.9270589</BATCH_SIZE>
+    <BOIL_SIZE>47.31764725</BOIL_SIZE>
+    <BOIL_TIME>180</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

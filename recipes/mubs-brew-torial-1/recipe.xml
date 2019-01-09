@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>MUBS Brew-torial #1</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>English IPA</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.05</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>60.0</IBU_MAX>
+      <COLOR_MIN>8.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>5.0</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Coopers IPA</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>1.69999797827398</AMOUNT>
+        <DISPLAY_AMOUNT>1.69999797827398 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>5</COLOR>
+        <DISPLAY_COLOR>5 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Corn Sugar (Dextrose)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Sugar</TYPE>
+        <YIELD>99.33059814294968</YIELD>
+        <AMOUNT>0.9999988107494</AMOUNT>
+        <DISPLAY_AMOUNT>0.9999988107494 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.046</POTENTIAL>
+        <COLOR>0</COLOR>
+        <DISPLAY_COLOR>0 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Coopers Plain Light DME</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Dry Extract</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.4999994053747</AMOUNT>
+        <DISPLAY_AMOUNT>0.4999994053747 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>9.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0000323613375</AMOUNT>
+        <DISPLAY_AMOUNT>30.0000323613375 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>9.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>20.000021574225</AMOUNT>
+        <DISPLAY_AMOUNT>20.000021574225 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>9.1</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>50.0000539355625</AMOUNT>
+        <DISPLAY_AMOUNT>50.0000539355625 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>White Labs</LABORATORY>
+        <NAME>Antwerp Ale Yeast</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>Extract</TYPE>
+    <BREWER>CaveMan Brewing</BREWER>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>23.62</BOIL_SIZE>
+    <BOIL_TIME>45</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

@@ -1,0 +1,48 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+25045,71349,spookify,"June 14, 2017  9:11pm","Strike: 172
+Target: 152
+Mash Temps: Min 148 and Max 155",['25065']
+25065,71349,spookify,"June 27, 2017  9:11pm","Stay at the High End! A slightly higher mash temp will increase mouth feel. 
+I would be safe with 153 and 160","['25068', '25069']"
+25068,71349,spookify,"June 28, 2017  2:39pm",Try to stay around 155 as much as possible!!!,[]
+25069,71349,spookify,"June 28, 2017  2:40pm",We are also adding Lactose at the 10 Minute Mark! (1 lbs.),[]
+25046,71349,spookify,"June 14, 2017  9:12pm","Note to Self: Lift kettle off burner to Cool to Pitch Temp!!! 
+Warm summer day put chill coil in an ice bath. Took a very long time to cool down to pitch temp.",['25048']
+25048,71349,spookify,"June 14, 2017  9:26pm",Watch Head Space,['25109']
+25109,71349,spookify,"July 12, 2017  1:17pm",OXY in kettle and then Transferred to Carboys. Seemed to Work Fine.,[]
+25047,71349,spookify,"June 14, 2017  9:21pm","Fermentation Schedule: 
+Pitch 67
+2 Days @ 68 
+Check - No Steps Needed
+3 More Days @ 68 
+Add Spices kick up to 72 (This Should be Day 5)
+9 More Days @ 72 (14 Days Total)
+Check Gravity for Completeness 
+Cold Crash & Keg when Fermentation Complete (Gelatin?)",['25067']
+25067,71349,spookify,"June 28, 2017  2:38pm","Same ramp schedule but adding a little experiment!
+Batch A - Spices Day 5 with a 14 Day Fermentation
+Batch B - Spices Day 10 with a 19 Day Fermentation",['25126']
+25126,71349,spookify,"July 18, 2017 12:56pm",No Noticeable Difference Pre-Carbonation...,[]
+25077,71349,spookify,"July 03, 2017 12:11am",1.100 OG,['25124']
+25124,71349,spookify,"July 18, 2017 12:53pm","1.037 FG
+8.27% ABV.",[]
+25108,71349,spookify,"July 12, 2017  1:07pm",Mexican Stout Water Profile: Ca+2 86 | Mg+2 25 | Na+ 4 | SO4-2 51 | Cl 51 | HCO3 255 pH 5.5,[]
+25125,71349,spookify,"July 18, 2017 12:56pm","Pre-Carbonation/Pre-Cold Crash Tasting:
+Chocolate coming threw very nicely and very noticeable.
+Full-Bodied, Slight touch of pepper and vanilla to balance. 
+Sweet but not overly sweet. (let hope that carbonation balances this even more)",['25148']
+25148,71349,spookify,"July 24, 2017 12:58pm","First Semi Carbonated Tasting:
+Batch A - Chocolate with Medium-Low Spice Profile. No Vanilla and Medium Cinnamon 
+Batch B - Chocolate with Medium-High Spice! Possible got more Chili Seeds! Tried to measure chilies as best as possible however there is a noticeable difference in Spice between once batch and another even though the same amount of peppers were added. (Just something to keep in mind)
+All in All - Very Very Good Beer. No off-flavors. Get fully carbonated and aged a little and this beer is a winner. 100% Brew again and honestly at this time I have no idea what I would change. Once fully carbed and BJCP feedback is back maybe I will have some tweaks but I think we set out and achieved what we wanted on our first try. (If anything its an amazing first try)",[]
+25131,71349,spookify,"July 19, 2017  3:41pm",48 Hour Cold Crash,[]
+25147,71349,spookify,"July 24, 2017 12:52pm","Carbonation:
+2 - 5 Gallon Batches 
+Force Carbonation for 72 Hours at 15 PSI (This was not enough... Sampled and Placed at 15 PSI for Another 24 Hours)
+Setting and Holding at 5 PSI",['25156']
+25156,71349,spookify,"July 26, 2017  6:34pm",Still flat but now slow carbing at 5 psi (Day 5),[]
+25210,71349,spookify,"August 16, 2017  2:45pm",We will wait on feedback but initial thoughts are Wyeast 1335 didnt have enough pop. Might need to try 1028 or 1056 next time.,[]
+25232,71349,spookify,"August 24, 2017  9:19pm","BJCP Competition 2017
+1st Place and Honorable Mention Best Of Show --- Obstruction Of Justice --- 20C: Imperial Stout
+39.5/50",[]
+25308,71349,spookify,"September 25, 2017  9:25pm",Other BJCP Feedback: Little to Bitter and Might Need a Different Yeast.,[]

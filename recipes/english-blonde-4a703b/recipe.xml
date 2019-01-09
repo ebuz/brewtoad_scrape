@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>English Blonde</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>Blonde Ale</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>6</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.038</OG_MIN>
+      <OG_MAX>1.054</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.013</FG_MAX>
+      <IBU_MIN>15.0</IBU_MIN>
+      <IBU_MAX>28.0</IBU_MAX>
+      <COLOR_MIN>3.0</COLOR_MIN>
+      <COLOR_MAX>6.0</COLOR_MAX>
+      <ABV_MIN>3.8</ABV_MIN>
+      <ABV_MAX>5.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale 2-Row (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>3.5</AMOUNT>
+        <DISPLAY_AMOUNT>3.5 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>1</COLOR>
+        <DISPLAY_COLOR>1 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Torrified Wheat</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Adjunct</TYPE>
+        <YIELD>77.7369898510041</YIELD>
+        <AMOUNT>0.197</AMOUNT>
+        <DISPLAY_AMOUNT>0.197 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.036</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara Malt (UK)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>75.57762902180954</YIELD>
+        <AMOUNT>0.197</AMOUNT>
+        <DISPLAY_AMOUNT>0.197 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.035</POTENTIAL>
+        <COLOR>17</COLOR>
+        <DISPLAY_COLOR>17 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>16.0</AMOUNT>
+        <DISPLAY_AMOUNT>16.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Styrian Golding (SI)</NAME>
+        <ORIGIN>Slovenia</ORIGIN>
+        <ALPHA>4.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>20.0</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Styrian Golding (SI)</NAME>
+        <ORIGIN>Slovenia</ORIGIN>
+        <ALPHA>4.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>20.0</AMOUNT>
+        <DISPLAY_AMOUNT>20.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>6.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>London Ale III</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>73.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Whirlfloc Tablet</NAME>
+        <USE>Boil</USE>
+        <TIME>15.0</TIME>
+        <AMOUNT>1.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES>A blend of Irish Moss and purified Kappa carrageenan that encourages the precipitation of haze causing materials such as proteins and Beta glucans. Prepared in a quick dissolving, highly soluble tablet form.</NOTES>
+        <DISPLAY_AMOUNT>1.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>15.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Gareth Bayles</BREWER>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>7.28</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>67.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

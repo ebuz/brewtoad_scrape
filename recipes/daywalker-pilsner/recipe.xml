@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Daywalker Pilsner</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>German Pilsner (Pils)</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>2</CATEGORY_NUMBER>
+      <TYPE>Lager</TYPE>
+      <OG_MIN>1.044</OG_MIN>
+      <OG_MAX>1.05</OG_MAX>
+      <FG_MIN>1.008</FG_MIN>
+      <FG_MAX>1.013</FG_MAX>
+      <IBU_MIN>25.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>2.0</COLOR_MIN>
+      <COLOR_MAX>5.0</COLOR_MAX>
+      <ABV_MIN>4.4</ABV_MIN>
+      <ABV_MAX>5.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pilsner (DE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>2.2</AMOUNT>
+        <DISPLAY_AMOUNT>2.2 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>2</COLOR>
+        <DISPLAY_COLOR>2 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Hersbrucker (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>4.25</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>8.0</AMOUNT>
+        <DISPLAY_AMOUNT>8.0 g</DISPLAY_AMOUNT>
+        <USE>First Wort</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Challenger (UK)</NAME>
+        <ORIGIN>United Kingdom</ORIGIN>
+        <ALPHA>7.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>7.0</AMOUNT>
+        <DISPLAY_AMOUNT>7.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>75</TIME>
+        <DISPLAY_TIME>75.0 min</DISPLAY_TIME>
+        <NOTES>English hop. Introduced in 1972. Very popular dual-purpose hop in English ales. Used in many traditional English Bitters. When used for bittering, Challenger can impart a pleasant and complex marmalade/toffee/citrus flavour, which enhances strong ales. Substitutes: East Kent Goldings, Phoenix, Styrian Goldings, British Columbian Goldings.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>5.0</AMOUNT>
+        <DISPLAY_AMOUNT>5.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Hersbrucker (DE)</NAME>
+        <ORIGIN>Germany</ORIGIN>
+        <ALPHA>4.25</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>5.0</AMOUNT>
+        <DISPLAY_AMOUNT>5.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Saaz (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>3.75</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Bohemian Lager</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+      <YEAST>
+        <LABORATORY>Wyeast</LABORATORY>
+        <NAME>Bohemian Lager</NAME>
+        <TYPE>Lager</TYPE>
+        <FORM>Liquid</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS>
+      <MISC>
+        <NAME>Ginger Root (Fresh)</NAME>
+        <USE>Boil</USE>
+        <TIME>10.0</TIME>
+        <AMOUNT>200.0</AMOUNT>
+        <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
+        <NOTES></NOTES>
+        <DISPLAY_AMOUNT>200.0 </DISPLAY_AMOUNT>
+        <DISPLAY_TIME>10.0 </DISPLAY_TIME>
+      </MISC>
+    </MISCS>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Haiko Peters</BREWER>
+    <BATCH_SIZE>11.0</BATCH_SIZE>
+    <BOIL_SIZE>3.99333333333333</BOIL_SIZE>
+    <BOIL_TIME>65</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

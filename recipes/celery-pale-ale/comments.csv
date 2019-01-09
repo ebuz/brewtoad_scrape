@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21858,35672,jclark1031,"May 04, 2015  4:16pm",how did this turn out?,['21922']
+21922,8384,Dave Rogge,"May 10, 2015  5:18am",I'm not sure I made this one.  I did make a Celery IPA.  It was delicious.,['21947']
+21947,35672,jclark1031,"May 13, 2015  9:13pm",cool. do you mind telling me more about the process?  did you only use celery seed? when did you add it? thanks.,['21987']
+21987,8384,Dave Rogge,"May 17, 2015  2:03pm","Yeah, I just used celery seed that I got from an amish market or somewhere I could get a large amount for cheap.  I used about 1/4 lb for the IPA, and I just added it a few minutes before the end of the boil, like an aroma hop.  I was pretty happy with the result.",[]

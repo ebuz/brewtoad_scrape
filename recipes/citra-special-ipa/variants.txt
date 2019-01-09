@@ -1,0 +1,3 @@
+x-citra-special
+citra-special-x-v2
+cascade-special-x

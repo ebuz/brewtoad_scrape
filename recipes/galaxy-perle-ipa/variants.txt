@@ -1,0 +1,9 @@
+simcoe-perle-ipa
+apollo-perle-ipa
+summit-perle-ipa
+azacca-perle-ipa
+chinook-perle-ipa
+engima-ipa
+nelson-sauvin-perle-ipa
+riwaka-perle-ipa
+pacifica-perle-ipa

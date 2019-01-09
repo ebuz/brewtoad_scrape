@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+22233,1713,David Mann,"June 21, 2015  3:36pm",That hopping has caught my attention. Can't wait to try it.,['22254']
+22254,2,Kyle Kestell,"June 24, 2015  9:54pm",As primary is winding down I'm considering dry hopping it. Smells fantastic as is but I think I want more. Another ounce of Crystal?,"['22258', '22260']"
+22258,1713,David Mann,"June 25, 2015  6:03pm","Crystal is definitely a good choice, but I prefer leaf hops for dry hopping. Crystal is probably not as readily available in leaf, but cascade sure is and I'd rather an ounce of that in leaf than Crystal in pellets.",[]
+22260,1713,David Mann,"June 26, 2015  4:13am","I just re-read your notes and I really like your concept for this beer, but I realized I gave you a bum steer with my Cascade suggestion. It looks like you can get Kent Golding and Hallertau in leaf form at Midwest. I think either of those would match the profile you're after.",[]

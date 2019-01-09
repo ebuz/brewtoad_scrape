@@ -1,0 +1,4 @@
+base-weizen-wyeast-1010
+base-weizen-wh-351
+base-weizen-safale-05
+base-weizen-cali-5

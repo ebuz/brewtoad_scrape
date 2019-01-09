@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20261,54197,Webster,"December 13, 2014  3:11pm",Let me know how this one turns out.  Looks interesting,['20279']
+20279,44811,Paul Guyett,"December 14, 2014  3:37pm",Do you have any suggestions? I am still tweaking the recipe.,['20348']
+20348,54197,Webster,"December 21, 2014  9:13am",None. I am curious about the smoked malt. It seems too strong for me but I am sure it tastes better with age,[]

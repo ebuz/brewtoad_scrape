@@ -1,0 +1,11 @@
+summer-ipa-nelson-sauvin
+american-ipa-star
+american-ipa-test-1
+american-ipa-citra-cascade
+citra-american-ipa-fall
+newcastle-chamomile-witbier
+newcastle-summer-esb
+newcastle-fall-esb
+newcastle-witbier
+orange-coriandre-wit-5
+blanche-coriandre-orange-7

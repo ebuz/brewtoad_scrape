@@ -1,0 +1,3 @@
+sculpin-to-spec-870bf0
+goblin-a29dd1
+sculpin-x

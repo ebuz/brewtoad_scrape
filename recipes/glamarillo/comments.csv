@@ -1,0 +1,6 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+24222,72082,Stovetop Brewers,"October 01, 2016  8:06pm",Accidentally used CaraPils instead of White Wheat on round 2,['24612']
+24612,72082,Stovetop Brewers,"January 30, 2017  3:12pm",Apparently that worked -- Bronze Medal in 2017 Big Bend Brewoff,[]
+24539,72082,Stovetop Brewers,"January 08, 2017  1:56pm","Three gal for round 3, 1.068 OG (76%)",['24594']
+24594,72082,Stovetop Brewers,"January 25, 2017  2:42pm","#3. Used WLP051 Cali V Ale Yeast, finished high (1.023, 66% efficiency, 5.8% abv)",['25018']
+25018,72082,Stovetop Brewers,"June 06, 2017  6:08pm",Bronze Medal in 2017 Lancaster Iron Brewer for American IPA (21A),[]

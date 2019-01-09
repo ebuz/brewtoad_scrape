@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21918,59890,josh,"May 09, 2015 11:21pm",mash at 154,['21921']
+21921,59890,josh,"May 10, 2015 12:32am",153,['21924']
+21924,59890,josh,"May 10, 2015  1:34pm",SG 1.043,[]

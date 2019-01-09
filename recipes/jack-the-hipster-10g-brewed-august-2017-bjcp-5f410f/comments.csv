@@ -1,0 +1,39 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+25105,71349,spookify,"July 10, 2017  4:44pm","Mash Temp 152
+Min 150
+Max 155",['25234']
+25234,71349,spookify,"August 26, 2017  2:40pm",Strike 165 (Target),[]
+25110,71349,spookify,"July 13, 2017  2:46pm","Whirlpool - Add Hops at 179 degrees and cool to Pitch temp (Getting below 140 ASAP)
+Whirlpool - Note-to-self: Lift kettle off Burner!",[]
+25111,71349,spookify,"July 13, 2017  2:53pm","Fermentation Schedule: 
+Pitch 66 
+2 Days @ 67 
+Check - No Steps Needed 
+3 More Days @ 67 
+Kick/Ramp up to 71 (This Should be Day 5) 
+9 More Days @ 71 (14 Days Total) 
+Check Gravity for Completeness 
+Cold Crash & Keg when Fermentation Complete (Gelatin?)",[]
+25228,71349,spookify,"August 23, 2017  2:39pm",Water Profile: Ca+2 74 | Mg+2 21 | Na+ 29 | SO4-2 148 | Cl 44 | HCO3 149 pH 5.4,['25238']
+25238,71349,spookify,"August 27, 2017  5:56pm",pH was 5.50 on the dot,[]
+25236,71349,spookify,"August 26, 2017  7:20pm",1.33 gain obsorbtion,['25267']
+25267,71349,spookify,"September 12, 2017  9:08pm",Extra Pound of Maris Otter was Added.,[]
+25237,71349,spookify,"August 27, 2017 11:37am",OG = 1.062,[]
+25264,71349,spookify,"September 10, 2017  3:44pm",FG = 1.012,['25380']
+25380,71349,spookify,"October 17, 2017  9:05pm",6.56% ABV.,[]
+25376,71349,spookify,"October 16, 2017  4:35pm",33.5/50 BJCP,[]
+25426,71349,spookify,"October 27, 2017  1:31pm","33.5/50 (BJCP)
+JUDGE 1: 32/50
+Aroma: 9/12 - Low levels of a lightly toasted malt.  Faint underlying honey-like sweet notes.  Faint fresh herbal esters
+Appearance: 3/3 - Medium Copper, Clear.  Large foamy off white head that persists
+Flavor: 12/20 - Moderately high levels of an herbal and resiny hop flavor.  Low phenolic notes of black pepper.  Malt notes are bready with hints of caramel as it warms.  Finish is dry with bitterness lingering.
+Mouthfeel: 3/5 - Medium light body, moderate carbonation. Light alcohol warmth.  Slight prickling on palate - perhaps from a combination of the carbonation and alcohol.
+Overall: 5/10 - While I do enjoy the flavor of this beer, it seems the balance may be a bit towards the hop flavor and bitterness.  The bread malt with faint caramel notes appear to be there but are dominated by the bitterness.
+Checked Alcoholic (circled warming), astringent (circled harshness and wrote in ""light""), and phenolic (circled pepper)
+JUDGE 2: 35/50
+Aroma: 7/12 - Malty aroma, hints of earthy hops.  No fruity aroma.  No caramel aroma.  No diacetyl.
+Appearance: 3/3 - Copper brown color.  Good head retention with fine bubbles.  Good clarity
+Flavor: 14/20 - Malty flavor with a biscuity component.  Hop flavor is earthy. Hop bitterness is low. Medium dry finish. No alcoholic flavor. Hop bitterness becomes more assertive as the beer warms up.
+Mouthfeel: 4/5 - Medium body.  Moderate to high carbonation.  No alcoholic warmth.  No creaminess. Not astringent. smooth tasting.
+Overall: 7/10 - Good. Initial malt aroma.  Flavor is malty with hop bitterness better as it warms up.  Initial foamy head dissipates reasonably fast.
+No checks",[]

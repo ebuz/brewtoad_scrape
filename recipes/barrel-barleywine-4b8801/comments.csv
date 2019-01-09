@@ -1,0 +1,9 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+24336,29672,Lyndale Libations,"November 04, 2016  3:37am","Every brew this variant? If so, any tasting notes?",['24457']
+24457,50237,carlmarxman,"December 07, 2016  5:06pm","Just brewed it up, hasn't hit the barrel yet.",['24727']
+24727,29672,Lyndale Libations,"March 02, 2017  6:34am",Ping! How'd it come out?,['24731']
+24731,50237,carlmarxman,"March 03, 2017  7:15pm",still in the barrel. It's going to need so age for sure though. It came out of the fermenter super hot. Probably bottle in another week or so.,['24959']
+24959,29672,Lyndale Libations,"May 05, 2017 10:25pm",Hey again! Taste it recently?,"['24966', '25297']"
+24966,50237,carlmarxman,"May 09, 2017  3:14pm","I just took a sample of it before bottling. It's still really hot, but picked up some good flavor from my barrel. It's probably going to need at least 6months to mellow before it's worth drinking.",[]
+25297,50237,carlmarxman,"September 20, 2017  9:02pm",Finally got this beer packaged and tasted. It's aged really well and it tastes pretty good.,['25437']
+25437,29672,Lyndale Libations,"October 31, 2017 10:07pm","Sweet! Great to hear, thanks for updating me. If you're ever in Minnesota let me know, I'd love a taste if there's any left to be had.",[]

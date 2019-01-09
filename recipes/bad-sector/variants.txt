@@ -1,0 +1,2 @@
+bad-sector-2-0
+bad-sector-3-0

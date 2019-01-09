@@ -1,0 +1,2 @@
+comp-american-pale-ale
+comp-stout

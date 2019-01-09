@@ -1,0 +1,81 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+24523,71349,spookify,"January 03, 2017  8:34pm",Dry Hop at 70 degrees.,[]
+24585,71349,spookify,"January 23, 2017  5:28pm",Water Profile: Ca+2 100  |  Mg+2 18  |  Na+ 30  |  SO4-2 125  |  Cl 125  |  HCO3 40    pH 5.2,[]
+24586,71349,spookify,"January 23, 2017  5:28pm",Mash Temp: 150,"['24619', '24620', '24622']"
+24619,71349,spookify,"February 01, 2017  5:27pm",Min 145 and Max 155,[]
+24620,71349,spookify,"February 01, 2017  5:37pm",Whirlpool Add at Max Temp. 185 and do not let fall below 178,['24690']
+24690,71349,spookify,"February 21, 2017  4:48pm",Future reference start at 180 and let fall to pitch temp.,[]
+24622,71349,spookify,"February 02, 2017  2:39pm",Strike at 169.4 with 8 gallons (32 quarts),[]
+24587,71349,spookify,"January 23, 2017  7:15pm","Fermentation Schedule:
+Pitch 66
+2 Days @ 67
+Add Dry Hop #1 (2.25 oz per carboy)
+2 More Days @ 67
+Add Dry Hop #2 (2.25 oz per carboy), kick up to 72
+2 Days @ 72
+Check Gravity for Completeness
+Cold Crash & Keg when Fermentation Complete (NO Gelatin)",[]
+24632,71349,spookify,"February 05, 2017  7:43pm",OG = 1.050,['24652']
+24652,71349,spookify,"February 13, 2017  2:24am",FG = 1.011,[]
+24633,71349,spookify,"February 05, 2017  7:52pm",pH = 5.4,[]
+24683,71349,spookify,"February 19, 2017  8:58pm",Maybe a little to bitter for an APA,['24684']
+24684,71349,spookify,"February 19, 2017 11:32pm",Or at the high end,"['24708', '24686']"
+24708,71349,spookify,"February 26, 2017  4:10pm",After a few weeks the bitterness has went from meduim-high to medium-low,[]
+24686,71349,spookify,"February 20, 2017 12:06pm",Next time only 1oz of New Port at 60 minutes,['24689']
+24689,71349,spookify,"February 21, 2017  3:04pm","Also, cut Carapils (Dextrine Malt) (US) to 0.5 lbs. (Slight maltyness)",['24808']
+24808,71349,spookify,"March 22, 2017  9:21pm",Bitterness ended up being Low-High to Mid-Low. 2oz at 60min for New Port.,[]
+24709,71349,spookify,"February 26, 2017  4:11pm",The water profile is amazing! Clean and crisp exactly what I was going for. Bitterness is now medium-low and toward the end along with massive amount of hop flavor. Matlyness is low but present. Very dry!! I think the very dry is what I'm getting the most because it makes the hops cling to your palette.,[]
+24840,71349,spookify,"March 31, 2017  2:49pm","Aroma 
+1) (6/12) Grassy Notes - Slightly Overpowering.  
+2) (6/12) Light Pine and Oxides aroma
+Appearance 
+1) (1/3) Cloudy Khaki Brown - Low for Style
+2) (1/3) Hazy and light Copper
+Flavor 
+1) (10/20) Vegetal character, very hoppy malt balance is out of so jin the hop direction
+2) (11/20) Green grassy hop character. Vegetal...
+Mouth-feel 
+1) (4/5) ... 
+2) (3/5) ...
+Overall 
+1) (5/10) Greenish Body with material. Almost IPA bitterness.  
+2) (6/10) Great Hop Flavor and Aroma but muddled by Vegetal.",['24841']
+24841,71349,spookify,"March 31, 2017  2:49pm","Dimethyl Sulfides (DMS)/ Cooked Vegetable Flavors
+Like diacetyl in ales, DMS is common in many light lagers and is considered to be part of the character. DMS is produced in the wort during the boil by the reduction of another compound, S-methyl-methionine (SMM), which is itself produced during malting. When a malt is roasted or toasted, the SMM is reduced beforehand and does not manifest as DMS in the wort, which explains why it is more prevalent in pale lagers. In other styles, DMS is a common off-flavor, and can be caused by poor brewing practices or bacterial infections.
+DMS is continuously produced in the wort while it is hot and is usually removed by vaporization during the boil. If the wort is cooled slowly these compounds will not be removed from the wort and will dissolve back in. Thus it is important to not completely cover the brewpot during the boil or allow condensate to drip back into the pot from the lid. The wort should also be cooled quickly after the boil, either by immersing in an ice bath or using a wort chiller.
+When caused by bacterial infection, DMS has a more rancid character, more liked cooked cabbage than corn. It is usually the result of poor sanitation. Repitching the yeast from an infected batch of beer will perpetuate the problem.","['24843', '24844']"
+24843,71349,spookify,"March 31, 2017  3:16pm","More Judge Info:
+I do remember this particular one as the color of the body and the hoppiness stood out in the pale ale category.  I perceived ""vegetal"" as hops that could have been in the boil.  I avoid this by removing first wort hops as it comes to a boil (see this picture ""scooping the foop"").  I get the early hops out of the boil so they're not over cooked.  Perhaps that's all baloney but for me it's how I avoid the grassy/veggie and get a smoother bittering.  And that's what I meant by vegetal, grassy, not cooked corn or stewed cabbage as would have been noted with a mention of DMS or other off flavor.  Could also come from dry hopping with those high AA hops but as for the particular hops of citra and galaxy, when judging we are not able to tell what ingredients were used and are not supposed to speak to suggesting which ingredient to use.  The greenish tint of the body could have been from dry hopping and hop particles still in suspension.  As judges we can only speculate on the beer that is in front of us.  Like most of my beers it's likely better straight out of the tap than in the bottle being judged.  Let me know if you have other questions or if I wasn't clear explaining myself.
+Thanks,
+######
+Link HERE - http://imgur.com/snsKMCS",[]
+24844,71349,spookify,"March 31, 2017  6:35pm","Dimethyl Sulfide (DMS)
+Tastes/Smells Like:
+Cooked vegetables, especially creamed corn, cabbage, tomato, shellfish/oyster-like
+flavors
+Possible Causes:
+S-methyl methionine (SMM) is created during the malting process of grain and is
+later converted to DMS when heated. Darker base grains have less DMS as the kilning
+process converts SMM to DMS and drives it off before going into the wort. This makes
+DMS naturally more prevalent in pale ales and lagers.
+How to Avoid:
+When boiling wort, DMS is driven off through evaporation. It is very important to
+always maintain a strong rolling boil for at least one hour. Some brewers boil for
+90 minutes to ensure that as much DMS is driven off as possible. Avoid letting
+condensation drip back into the wort and never cover your kettle completely during
+the boil. Long cooling times can also lead to excess amounts of DMS. Cool your wort
+to pitching temperature as quickly as possible with a wort chiller or ice bath. Finally,
+a strong fermentation with lots of Co2 production helps to clean up DMS since the
+bubbles carry DMS away, so pitching high quality yeast is a must.",[]
+24842,71349,spookify,"March 31, 2017  2:51pm","#1) Next time do not cover boil completely with cover. 
+#2) Whirlpool - Add Hops at 179 degrees and cool to Pitch temp (Getting below 140 ASAP)
+#3) For Comp possible consider Gelatin",['24845']
+24845,71349,spookify,"March 31, 2017  6:36pm",#4 Let fermentation complete. (Let sit an extra few days),[]
+24894,71349,spookify,"April 13, 2017  2:39pm","Bittering (10g):
+0.5 oz = Low
+1.0 oz = Med
+1.5 oz = Med
+2.0 oz = High
+2.5 oz = Very High
+3.0 oz = Extreme",[]
+24910,71349,spookify,"April 18, 2017  3:01pm","Was very dry and very bitter. Possible Add a little more sweetness next time. Also, more Wheat and less caramel.",[]

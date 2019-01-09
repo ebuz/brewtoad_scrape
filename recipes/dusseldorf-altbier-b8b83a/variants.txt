@@ -1,0 +1,3 @@
+schumacher-dusseldorf-altbier
+schumacher-dusseldorf-altbier-test
+dusseldorf-altbier-kat-style

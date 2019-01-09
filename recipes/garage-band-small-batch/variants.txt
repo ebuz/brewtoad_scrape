@@ -1,0 +1,3 @@
+garage-band
+garage-band-lite-rock-small
+garage-band-heavy-metal

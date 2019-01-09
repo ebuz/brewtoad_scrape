@@ -1,0 +1,2 @@
+lupalin-hopfield-2
+tropica-julius

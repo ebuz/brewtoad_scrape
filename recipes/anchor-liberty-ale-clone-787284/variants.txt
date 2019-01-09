@@ -1,0 +1,1 @@
+liberty-ale-extract-version

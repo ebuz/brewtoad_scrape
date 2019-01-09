@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20158,40469,Scott Trefethen,"November 30, 2014  5:57am",4 lbs. of cucumber puree,['20229']
+20229,38303,oldtimewil,"December 09, 2014  9:45pm",did you peel the cucs?,['20880']
+20880,40469,Scott Trefethen,"February 12, 2015  8:04pm","Actually I remove about half the peel, puree' the cucs and then add a couple shots of vodka before adding the slurry to the secondary.",[]

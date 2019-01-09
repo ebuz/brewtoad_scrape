@@ -1,0 +1,17 @@
+pale-ale-512
+wheaties-2-1
+hoppy-wheat-64
+german-pils-42
+german-pilsner-3-2
+kristas-brown-ale
+american-brown-ale-1-299e68
+german-pilsner-4-3
+german-pils-5-1
+german-pils-6-1
+hoppy-pils-7-1
+german-pils-8-1
+german-pils-10-36c85d
+german-pils-11-7ba8bd
+german-pils-3-22-16-730b79
+german-pils-9-33f1ee
+german-pils-big-batch-3a2ef0

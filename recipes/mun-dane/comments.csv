@@ -1,0 +1,19 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+23384,51818,geoffeweizen,"February 14, 2016 12:50am","Mash Parameters								
+Batch Volume (gal)		6.00	Hardness (ppm as CaCO3)		151	RA (ppm as CaCO3)		-47
+Estimated Mash pH		5.5	Alkalinity (ppm as CaCO3)		-8	SO4/Cl Ratio		1.40
+
+Additions			Total Mash Water Vol (gal)		4.10	Total Sparge Water Vol (gal)		3.70
+			Mash Dilution Vol (gal)		0.00	Sparge Dilution Vol (gal)		0.00
+			Mash Water Additions			Sparge Water Additions		
+Mineral 			(grams)			(grams)		
+Gypsum (CaSO4) 			1.3			1.2		
+Epsom Salt (MgSO4)			1.1			1.0		
+Canning Salt (NaCl)			0.0			0.0		
+Baking Soda (NaHCO3)			0.4			Not Recommended		
+Calcium Chloride (CaCl2)			1.6			1.5		
+Chalk (CaCO3)			0.0			Not Recommended 		
+Pickling Lime (Ca(OH)2)			0.0			Not Recommended 		
+Magnesium Chloride (MgCl2)			0.0			0.0		
+Acid			(mL)			(mL)		
+Lactic	88.00	%	0.8			0.0",[]

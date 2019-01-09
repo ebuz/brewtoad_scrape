@@ -1,0 +1,7 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+23104,71844,Baas Bier,"December 21, 2015 10:42pm","Hi Tony. Really, really like your brewery! I'm designing my own electric brewery at the moment and hope to brew again soon. 
+Can you tell me if you would recommend brewing this recipe? I've got all the ingredients and will probably brew this february next year. Thank you fir your reply and happy holidays.",['23118']
+23118,31492,TonyYates,"December 25, 2015  4:24pm","Although I haven't brewed this specific recipe yet, I wouldn't be afraid too. I am a Centennial lover and would say this would be just fine. I have adjusted the Bittering addition to only 28 grams to get it closer in the range of ~40 IBU. Cheers!","['23133', '23419']"
+23133,71844,Baas Bier,"December 28, 2015 12:38pm","I'll let you know how it turned out, thanks!",[]
+23419,71844,Baas Bier,"February 20, 2016  8:34am","Brewed it last Thursday. Did a whirlpool for 20 minutes at 90c, it's now fermenting away with my saved WLP007 from previous batch. Smelled and tasted great! Had the original during my brewsession and saved one for comparison later. Thanks for the recipe. 
+Did you try the Nogne O porter as well? I really liked it and will try to make a clone later this year.",[]

@@ -1,0 +1,3 @@
+sm2015-singlehop-sorachiace
+sm2015-singlehop-citra
+sm2015-singlehop-amarillo

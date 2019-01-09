@@ -1,0 +1,4 @@
+hop-class-60-and-15
+hop-class-hop-burst
+hop-class-60-and-30
+hop-class-continuous-hop

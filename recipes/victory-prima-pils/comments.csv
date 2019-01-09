@@ -1,0 +1,39 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+18039,46350,SEATTLEBREWING,"April 27, 2014  8:24pm","HI, Where did you get the recipe? It seems a bit high in BU's for the real Prima and should be around 45 IBU's...",['18098']
+18098,19368,adamk816,"May 05, 2014  1:43pm","My numbers on BrewToad are not correct since I did not adjust for alpha acids.  Here is the recipe that was provided by Victory for a homebrewing class.
+Targets:
+O.G. 1.054
+F.G. 1.011
+IBU 52
+SRM 3
+ABV 5.5%
+Batch Size: 15 gallon
+Malt:
+27 lbs German Pilsner
+0.5 lbs Acid Malt
+Boil: 90 min
+Hops (Leaf):
+Sladek             45 min    3.5 oz
+Spalt Select         30 min    2.0 oz
+Tettnanger        30 min    2.0 oz
+Tettnanger        15 min    1.0 oz
+Czech Saaz        15 min    2.0 oz
+Spalt Select        10 min    1.0 oz
+Czech Saaz        10 min    1.0 oz
+Sladek            05 min    1.0 oz
+Sladek            05 min    1.0 oz   [should this be 1 min?]
+Yeast: Not identified
+Process:
+Dough in @ 122 F (8.25 gallon watter assuming 1.2 qts/lb)
+Protein Rest 20 min (pH should be 4.2-5.3)
+Increase mash temp to 149 F (add 6.08 gallons at 210, or 11.97 gallons at 180)
+Sacc Rest 60 min
+Recirculation through 155 degree water.
+Sparge at 170 F until 18 gal
+Boil 90 min (add hops per schedule)
+Chill to 60 Degrees
+Ferment at 52-55 degreees
+Lager for 4 weeks 34-38 Degrees F",[]
+18108,46350,SEATTLEBREWING,"May 06, 2014 11:34pm",Thank you so much for posting this change!,['18849']
+18849,19368,adamk816,"July 18, 2014  1:58pm",Did you ever brew the Prima Pils recipe?,['18855']
+18855,46350,SEATTLEBREWING,"July 19, 2014  3:51pm","No, I've been brewing wedding beers all month and don't have time for lagers until I'm done. I've got it on the docett thou.  Add some tasting notes to the one you did and your thoughts on it.",[]

@@ -1,0 +1,8 @@
+single-hop-series-ipa-amarillo
+single-hop-series-ipa-cascade
+single-hop-series-ipa-citra
+single-hop-series-ipa-simcoe
+single-hop-series-ipa-centennial
+single-hop-series-ipa-columbus
+single-hop-series-ipa-bravo
+single-hop-series-ipa-belma

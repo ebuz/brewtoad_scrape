@@ -1,0 +1,4 @@
+calypso-rose-ipa-i2i-1g-ag
+calypso-rose-ipa-i2i-5g-ex
+calypso-rose-ipa-i2i-2-5g-ex
+calypso-rose-ipa-i2i-2-5g-ag

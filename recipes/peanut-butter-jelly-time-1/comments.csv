@@ -1,0 +1,6 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20148,58706,Baron's Brewery,"November 28, 2014  5:52pm",How did it turned out?,['20234']
+20234,30410,scottonthepot,"December 10, 2014  5:53pm","It turned out pretty good. I inadvertently left it on the fruit for closer to three weeks, so it's a bit on the fruity side.",[]
+20233,30410,scottonthepot,"December 10, 2014  5:53pm","It turned out pretty good.  I inadvertently left it on the fruit for closer to three weeks, so it's a bit on the fruity side.",[]
+20725,57330,Alejandro González,"January 28, 2015  2:16pm","Hi, Im attempting to make this recipe. I just mixed the peanut butter powder with vodka and find that the powder to liquid ratio makes for a very powdery mix. Did you have this problem? What did you do? Or how did you add the peanut powder to your recipe?",['20792']
+20792,30410,scottonthepot,"February 04, 2015 10:27pm",I didn't really measure out the amount of vodka that I used with the pb2.  I just dumped the bag of pb2 into a bowl and then poured vodka into and stirred until it was a little bit more runny than regular peanut butter.,[]

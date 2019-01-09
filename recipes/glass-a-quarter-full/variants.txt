@@ -1,0 +1,4 @@
+cway-glass-half-full
+cway-glass-all-full
+cway-glass-needs-refill
+unsure-abilities

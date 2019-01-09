@@ -1,0 +1,14 @@
+amarillo-perle-ipa
+centennial-perle-ipa
+simcoe-perle-ipa
+galaxy-perle-ipa
+apollo-perle-ipa
+summit-perle-ipa
+azacca-perle-ipa
+chinook-perle-ipa
+engima-ipa
+nelson-sauvin-perle-ipa
+riwaka-perle-ipa
+pacifica-perle-ipa
+cascade-ipa-d3bbdb
+cascade-pearl-ipa

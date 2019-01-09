@@ -1,0 +1,18 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+22949,15684,jwickler,"November 14, 2015 12:48am",Acidified sparge water.,[]
+22950,15684,jwickler,"November 14, 2015  1:58am",Og 1.062,['22964']
+22964,15684,jwickler,"November 19, 2015  4:25am",5 day SG 1.022,[]
+22908,15684,jwickler,"November 06, 2015  7:47pm","Mash Schedule
+Strike grains with 4 gal of water at 168.4 °F.
+Mash at 155 °F for 60 min.
+Vorlauf and lauter 1.45 gal in your first runnings.
+Add 5.05 gal of sparge water at 168 °F.
+Vorlauf and lauter 5.05 gal in your second runnings.
+Your combined runnings should be 6.5 gal.",[]
+22910,15684,jwickler,"November 06, 2015  7:48pm","Mash Schedule
+Strike grains with 3.5 gal of water at 168.6 °F.
+Mash at 155 °F for 60 min.
+Vorlauf and lauter 0.95 gal in your first runnings.
+Add 5.55 gal of sparge water at 168 °F.
+Vorlauf and lauter 5.55 gal in your second runnings.
+Your combined runnings should be 6.5 gal.",[]

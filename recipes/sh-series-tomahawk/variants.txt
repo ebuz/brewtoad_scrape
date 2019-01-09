@@ -1,0 +1,2 @@
+sh-series-citra
+sh-series-galaxy

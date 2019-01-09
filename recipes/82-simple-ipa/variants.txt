@@ -1,0 +1,7 @@
+79-black-ipa
+86-simple-ipa
+91-hazy-ipa
+107-hazy-ipa-2
+94-ipa
+115-ipa
+101-cm-ipa

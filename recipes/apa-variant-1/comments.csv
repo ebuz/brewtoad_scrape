@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21910,15442,CaveMan Brewing,"May 09, 2015  6:22am",O.G = 1.060,[]
+22139,15442,CaveMan Brewing,"June 07, 2015 10:54pm",FG = 1.019,['22141']
+22141,15442,CaveMan Brewing,"June 07, 2015 11:22pm","Corrected F.G = 1.008, ABV = 6.65%",[]

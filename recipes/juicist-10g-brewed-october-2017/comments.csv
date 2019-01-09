@@ -1,0 +1,21 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+25358,71349,spookify,"October 13, 2017  2:29pm",pH = 5.4,[]
+25359,71349,spookify,"October 13, 2017  2:29pm",OG = 1.070,['25411']
+25411,71349,spookify,"October 23, 2017  8:22pm","FG = 1.013
+7.48% ABV.",[]
+25360,71349,spookify,"October 13, 2017  2:29pm",Note: 13.5 gallons boiled down to about 11 over the course of an hour.,['25365']
+25365,71349,spookify,"October 13, 2017  3:15pm",Noting: 2.5 gallon boil off for future batches.,[]
+25361,71349,spookify,"October 13, 2017  2:30pm",75% mash efficiency,[]
+25362,71349,spookify,"October 13, 2017  2:30pm",Honey was added 10 minute before flameout,[]
+25363,71349,spookify,"October 13, 2017  2:32pm",Target Water Profile: Yellow Balanced Water Profile: Ca+2 68 | Mg+2 16 | Na+ 7 | SO4-2 92 | Cl 61 | HCO3 15 pH 5.2 (Came out 5.4 pH),[]
+25366,71349,spookify,"October 13, 2017  3:17pm","Fermentation Schedule: 
+Pitch 65 
+2 Days @ 65 
+Add Dry Hop #1 
+2 More Days @ 65 
+Add Dry Hop #2, kick up to 71 
+5 Days @ 71 
+Check Gravity for Completeness 
+Cold Crash & Keg when Fermentation Complete (NO Gelatin)",['25367']
+25367,71349,spookify,"October 13, 2017  3:37pm",24 hours cold crash is the plan,[]
+25414,71349,spookify,"October 24, 2017  6:50pm",Sweet Honey New England Ale,[]

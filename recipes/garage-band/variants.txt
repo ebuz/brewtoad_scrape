@@ -1,0 +1,5 @@
+joes-garage
+garage-band-small-batch
+garage-band-lite-rock-small
+garage-band-heavy-metal
+garage-band-smooth

@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Lady B1 new</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American IPA</NAME>
+      <STYLE_LETTER>B</STYLE_LETTER>
+      <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.056</OG_MIN>
+      <OG_MAX>1.075</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.018</FG_MAX>
+      <IBU_MIN>40.0</IBU_MIN>
+      <IBU_MAX>70.0</IBU_MAX>
+      <COLOR_MIN>6.0</COLOR_MIN>
+      <COLOR_MAX>15.0</COLOR_MAX>
+      <ABV_MIN>5.5</ABV_MIN>
+      <ABV_MAX>7.5</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Malt, Maris Otter</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Grain</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>6.486370891</AMOUNT>
+        <DISPLAY_AMOUNT>6.486370891 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Caramel Malt 80L</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>71.25890736342042</YIELD>
+        <AMOUNT>0.680388555</AMOUNT>
+        <DISPLAY_AMOUNT>0.680388555 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.033</POTENTIAL>
+        <COLOR>80</COLOR>
+        <DISPLAY_COLOR>80 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>5.1029141625</AMOUNT>
+        <DISPLAY_AMOUNT>5.1029141625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>59</TIME>
+        <DISPLAY_TIME>59.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>58</TIME>
+        <DISPLAY_TIME>58.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>57</TIME>
+        <DISPLAY_TIME>57.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>56</TIME>
+        <DISPLAY_TIME>56.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>55</TIME>
+        <DISPLAY_TIME>55.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>54</TIME>
+        <DISPLAY_TIME>54.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>53</TIME>
+        <DISPLAY_TIME>53.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>52</TIME>
+        <DISPLAY_TIME>52.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>51</TIME>
+        <DISPLAY_TIME>51.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>50</TIME>
+        <DISPLAY_TIME>50.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>49</TIME>
+        <DISPLAY_TIME>49.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>48</TIME>
+        <DISPLAY_TIME>48.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>47</TIME>
+        <DISPLAY_TIME>47.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>46</TIME>
+        <DISPLAY_TIME>46.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>45</TIME>
+        <DISPLAY_TIME>45.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>44</TIME>
+        <DISPLAY_TIME>44.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>43</TIME>
+        <DISPLAY_TIME>43.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>42</TIME>
+        <DISPLAY_TIME>42.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>41</TIME>
+        <DISPLAY_TIME>41.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>40</TIME>
+        <DISPLAY_TIME>40.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>39</TIME>
+        <DISPLAY_TIME>39.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>38</TIME>
+        <DISPLAY_TIME>38.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>37</TIME>
+        <DISPLAY_TIME>37.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Warrior (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>16.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>36</TIME>
+        <DISPLAY_TIME>36.0 min</DISPLAY_TIME>
+        <NOTES>Warrior brand YCR 5 cv hop variety is an alpha hop used for its mild, clean bittering qualities. It is widely used in American pale ales and IPAs.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>35</TIME>
+        <DISPLAY_TIME>35.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>34</TIME>
+        <DISPLAY_TIME>34.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>33</TIME>
+        <DISPLAY_TIME>33.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>32</TIME>
+        <DISPLAY_TIME>32.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>31</TIME>
+        <DISPLAY_TIME>31.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>5.1029141625</AMOUNT>
+        <DISPLAY_AMOUNT>5.1029141625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>30</TIME>
+        <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>29</TIME>
+        <DISPLAY_TIME>29.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>28</TIME>
+        <DISPLAY_TIME>28.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>27</TIME>
+        <DISPLAY_TIME>27.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.133980925</AMOUNT>
+        <DISPLAY_AMOUNT>1.133980925 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>26</TIME>
+        <DISPLAY_TIME>26.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>25</TIME>
+        <DISPLAY_TIME>25.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>24</TIME>
+        <DISPLAY_TIME>24.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>23</TIME>
+        <DISPLAY_TIME>23.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>22</TIME>
+        <DISPLAY_TIME>22.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>21</TIME>
+        <DISPLAY_TIME>21.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>20</TIME>
+        <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>19</TIME>
+        <DISPLAY_TIME>19.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>18</TIME>
+        <DISPLAY_TIME>18.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>17</TIME>
+        <DISPLAY_TIME>17.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>16</TIME>
+        <DISPLAY_TIME>16.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>15</TIME>
+        <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>14</TIME>
+        <DISPLAY_TIME>14.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>13</TIME>
+        <DISPLAY_TIME>13.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>12</TIME>
+        <DISPLAY_TIME>12.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>11</TIME>
+        <DISPLAY_TIME>11.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>9</TIME>
+        <DISPLAY_TIME>9.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>8</TIME>
+        <DISPLAY_TIME>8.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>7</TIME>
+        <DISPLAY_TIME>7.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>6</TIME>
+        <DISPLAY_TIME>6.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>5.1029141625</AMOUNT>
+        <DISPLAY_AMOUNT>5.1029141625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5</TIME>
+        <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>4</TIME>
+        <DISPLAY_TIME>4.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>3</TIME>
+        <DISPLAY_TIME>3.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>2</TIME>
+        <DISPLAY_TIME>2.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Palisade (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>6.7</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>1.41747615625</AMOUNT>
+        <DISPLAY_AMOUNT>1.41747615625 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>1</TIME>
+        <DISPLAY_TIME>1.0 min</DISPLAY_TIME>
+        <NOTES>Palisade brand YCR 4 hop variety is an aroma hop that is known for its amazing yield and unique aroma. It invokes apricot, grass, and floral notes and is used regularly in commercial brewing.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo Gold</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>8.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0504945125</AMOUNT>
+        <DISPLAY_AMOUNT>30.0504945125 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0504945125</AMOUNT>
+        <DISPLAY_AMOUNT>30.0504945125 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>12.2</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>30.0504945125</AMOUNT>
+        <DISPLAY_AMOUNT>30.0504945125 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10080</TIME>
+        <DISPLAY_TIME>7 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Simcoe (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>9.92233309375</AMOUNT>
+        <DISPLAY_AMOUNT>9.92233309375 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Willamette (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>5.5</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>9.92233309375</AMOUNT>
+        <DISPLAY_AMOUNT>9.92233309375 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo Ita</NAME>
+        <ORIGIN></ORIGIN>
+        <ALPHA>10.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>9.92233309375</AMOUNT>
+        <DISPLAY_AMOUNT>9.92233309375 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Leaf</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0 days</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY></LABORATORY>
+        <NAME>Safale American </NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>76.5</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Antonio Garofalo</BREWER>
+    <BATCH_SIZE>23.09</BATCH_SIZE>
+    <BOIL_SIZE>25.74</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>72.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>

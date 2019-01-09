@@ -1,0 +1,3 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+23357,44120,John Porterfield,"February 08, 2016 10:27pm",Assume boil off rate of 10-15% per hour.,['23358']
+23358,44120,John Porterfield,"February 08, 2016 10:48pm",Scratch that. 2 gallons per 90 minutes (10% per hour),[]

@@ -1,0 +1,3 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+22944,46008,balpar,"November 13, 2015 12:52pm",It's partial!,['22945']
+22945,46008,balpar,"November 13, 2015 12:53pm","No, it's not. It's friday.",[]

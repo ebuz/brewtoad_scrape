@@ -1,0 +1,5 @@
+ipa-recipe-2-15-2016-85c850
+2016-ipa-variant-of-11-7-2015-64a656
+3-18-variant-of-pale-ale-ipa-7d2e87
+6-4-ipa-variant-with-new-hops-and-less-crystal
+9-22-ipa-variant-less-crystal

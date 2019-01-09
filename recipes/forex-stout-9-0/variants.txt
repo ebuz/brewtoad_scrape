@@ -1,0 +1,3 @@
+forex-stout-8-0
+forex-stout-10-0
+forex-stout-11

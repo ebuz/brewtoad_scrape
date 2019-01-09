@@ -1,0 +1,2 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+23431,56396,Viking,"February 22, 2016  2:46pm","The software does not calculate IBU for whirlpool additions when in fact it does add bitterness equivalent to about 10% utilization, which leaves the total IBU for this recipe at about 40 IBU.",[]

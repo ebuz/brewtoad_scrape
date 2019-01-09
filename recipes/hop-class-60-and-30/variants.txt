@@ -1,0 +1,2 @@
+hop-class-hop-burst
+hop-class-continuous-hop

@@ -1,0 +1,6 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20732,37272,CURT FOWLER,"January 28, 2015  5:31pm","Final Gravity 1.005
+9.4ABV",['20734']
+20734,37272,CURT FOWLER,"January 28, 2015  6:00pm",Actually only used Safale S-04 yeast but it would calculate final gravity correctly.,[]
+20733,37272,CURT FOWLER,"January 28, 2015  5:34pm","20 Whirlpool I know adds IBU's, FYI
+Brewtoad doesn't increase IBU's on whirlpool when we know it does.",[]

@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]> <html class="no-js oldie"> <![endif]-->
+<!--[if IE 9 ]> <html class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]> ><! <![endif]-->
+<html class='no-js'>
+<!-- <![endif] -->
+<head>
+<meta charset='utf-8'>
+<meta content='chrome=1' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8133495815","applicationID":"3690331","transactionName":"d15bTBMMWVVcF0pFXFdYRV0STFdLXBI6W1ZTQhpLCQxC","queueTime":0,"applicationTime":128,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<title>Brew Log for 003 2016-02-07 Sahti | Brewtoad
+</title>
+<meta content='' name='description'>
+<meta content='' name='keywords'>
+<meta content='Ackmann &amp; Dickenson, Inc' name='author'>
+<meta content='width=device-width, initial-scale=0.9, user-scalable=no' name='viewport'>
+<meta content='ZHwJubiX3Uo_Q4FzwMXowZ-E6RfaHOmbv_nQ37SS8y8' name='google-site-verification'>
+<meta content='ba5c47f5ad5c883c8a813eb74b441953' name='p:domain_verify'>
+<meta content='513416568' property='twitter:account_id'>
+<link href='//bt-prod-assets.s3.amazonaws.com/assets/favicon.png' rel='shortcut icon'>
+<link href='//bt-prod-assets.s3.amazonaws.com/assets/apple-touch-icon.png' rel='apple-touch-icon'>
+<script src='https://maps.google.com/maps/api/js?sensor=false&amp;language=en' type='text/javascript'></script>
+<script src="//bt-prod-assets.s3.amazonaws.com/assets/modernizr.custom.82648.js"></script>
+<link rel="stylesheet" media="all" href="//bt-prod-assets.s3.amazonaws.com/assets/application.css" />
+<link rel="stylesheet" media="print" href="//bt-prod-assets.s3.amazonaws.com/assets/print.css" />
+<script src="//bt-prod-assets.s3.amazonaws.com/assets/application.js"></script>
+<script src='https://use.typekit.com/eiq6bjr.js' type='text/javascript'></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+<script>
+  dataLayer = [{
+    'event': 'pageLoad',
+    'loggedIn': false
+  }];
+</script>
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ifLPH2bEQlnsTRDFLkbEKUXQ9RdPCFkVk2iIVwFeeTMtJaK5pXI6dE6X0Spxbc1r0jzSPHD6djsyoVrEivCNRw==" />
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCZDBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCZDBR');</script>
+<!-- End Google Tag Manager -->
+<!-- / Site header -->
+<div class='header'>
+<div class='site-header'>
+<!-- / Toggle menu -->
+<a class='site-header--toggle-menu' href='#'>
+<i class='ion-navicon'></i>
+</a>
+<!-- / Logo -->
+<figure class='site-header--logo'>
+<a href='/'>
+<img alt='Brewtoad' src='//bt-prod-assets.s3.amazonaws.com/assets/brewtoad-2x.png'>
+</a>
+</figure>
+<!-- / Pro advert -->
+<!-- - if current_user.nil? || (current_user && !current_user.pro?) -->
+<!-- %a.site-header--pro.hide-on-mobile{:href => pro_path, :title => "Learn about Brewtoad Pro"} -->
+<!-- Go Brewtoad -->
+<!-- %strong Pro! -->
+<!-- / Site search -->
+<div class='site-header--search'>
+<a href='#'>
+<i class='ion-search'></i>
+</a>
+<form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="search" id="search" />
+<input type="submit" value="Search" />
+</form>
+
+</div>
+<ul class='hide-on-mobile site-header--social'>
+<li>
+<a href='https://www.facebook.com/brewtoad' target='_blank'>
+<i class='icon icon-facebook'></i>
+</a>
+</li>
+<li>
+<a href='https://twitter.com/brewtoad' target='_blank'>
+<i class='icon icon-twitter'></i>
+</a>
+</li>
+</ul>
+<!-- / User dropdown -->
+<!-- / Sign up / log in -->
+<div class='logged-out hide-on-mobile'>
+<a href='/accounts/sign_up'>Sign Up</a>
+<a href='/accounts/sign_in'>Log In</a>
+</div>
+<a class='site-header--login-button hide-above-mobile' href='/accounts/sign_in'>
+<i class='ion-person'></i>
+</a>
+</div>
+<nav class='site-nav'>
+<a class='toggle-nav' href='#'>
+<i class='ion-close'></i>
+</a>
+<ul>
+<li>
+<a>
+<i class='ion-beer'></i>
+Recipes
+</a>
+<ul>
+<li>
+<a href='/recipes'>
+<i class='ion-beer'></i>
+All Recipes
+</a>
+</li>
+<li>
+<a href='/recipes/new'>
+<i class='ion-compose'></i>
+New Recipe
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-chatbubbles'></i>
+Community
+</a>
+<ul>
+<li>
+<a href='/users'>
+<i class='ion-person'></i>
+Brewers
+</a>
+</li>
+<li>
+<a href='/groups'>
+<i class='ion-person-stalker'></i>
+Groups
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-stats-bars'></i>
+Styles &amp; Ingredients
+</a>
+<ul>
+<li>
+<a href='/styles'>
+<i class='ion-stats-bars'></i>
+Styles
+</a>
+</li>
+<li>
+<a href='/generic-fermentables'>
+<i class='ion-cube'></i>
+Fermentables
+</a>
+</li>
+<li>
+<a href='/hops'>
+<i class='ion-leaf'></i>
+Hops
+</a>
+</li>
+<li>
+<a href='/yeasts'>
+<i class='ion-bug'></i>
+Yeasts
+</a>
+</li>
+<li>
+<a href='/extras'>
+<i class='ion-beaker'></i>
+Extras
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-calculator'></i>
+Tools &amp; Calculators
+</a>
+<ul>
+<li>
+<a href='/tools/alcohol-calculator'>
+<i class='ion-calculator'></i>
+Alcohol Calculator
+</a>
+</li>
+<li>
+<a href='/tools/color-converter'>
+<i class='ion-calculator'></i>
+Color Converter
+</a>
+</li>
+<li>
+<a href='/tools/hydrometer-temperature-correction'>
+<i class='ion-calculator'></i>
+Hydrometer Temperature Correction
+</a>
+</li>
+<li>
+<a href='/tools/mash-water-calculator'>
+<i class='ion-calculator'></i>
+Mash Water Calculator
+</a>
+</li>
+<li>
+<a href='/tools/mash-infusion-calculator'>
+<i class='ion-calculator'></i>
+Mash Infusion Calculator
+</a>
+</li>
+<li>
+<a href='/tools/malt-potential-extract-calculator'>
+<i class='ion-calculator'></i>
+Malt Potential Extract
+</a>
+</li>
+<li>
+<a href='/tools/pitch-rate-calculator'>
+<i class='ion-calculator'></i>
+Pitch Rate Calculator
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div class='site-container brew_logs brew_logs-show'>
+<div class='site-content ' id='js-content'>
+<style>
+  table td {
+    border-bottom: 1px solid #eee;
+    padding: 1em;
+  }
+  
+  table tr.expired td {
+    text-decoration: line-through;
+  }
+</style>
+<script>
+  $(function() {
+    new BT.Recipes.Favorite('003-2016-02-07-sahti-ee1bc3');
+  });
+</script>
+<header>
+<figure class='recipe-color srm19'>
+<i class='icon icon-pint-glass'></i>
+</figure>
+<div class='header-content'>
+<h1>
+003 2016-02-07 Sahti
+<span class='hide-on-mobile'>
+</span>
+</h1>
+<p class='flush'>
+an
+All Grain
+<strong>
+<a class="js-modal style-link" data-title="Specialty Beer" href="/styles/specialty-beer">Specialty Beer</a>
+</strong>
+<span class='author'>
+by
+<strong>
+<a href='/users/44698' title="View chamb186's recipes">chamb186</a>
+</strong>
+</span>
+</p>
+</div>
+</header>
+
+<div class='subnav'>
+<div class='subnav--sidebar'>
+<ul class='hide-on-mobile'>
+<li class=''>
+<a href='/recipes/003-2016-02-07-sahti-ee1bc3' title='Ingredients'>
+<i class='ion-beer'></i>
+<span>Ingredients</span>
+</a>
+</li>
+<li class='active'>
+<small class='fr'>1</small>
+<a href='/recipes/003-2016-02-07-sahti-ee1bc3/brew-logs' title='Brew Logs'>
+<i class='ion-clipboard'></i>
+<span>Brew Logs</span>
+</a>
+</li>
+<li class=''>
+<small class='fr'>0</small>
+<a href='/recipes/003-2016-02-07-sahti-ee1bc3/ancestry' title='Variants'>
+<i class='ion-fork-repo'></i>
+<span>Variants</span>
+</a>
+</li>
+<li class=''>
+<small class='fr'>0</small>
+<a href='/recipes/003-2016-02-07-sahti-ee1bc3/reviews' title='Reviews'>
+<i class='ion-star'></i>
+<span>Reviews</span>
+</a>
+</li>
+</ul>
+<div class='soft--half'>
+<a href="/recipes/003-2016-02-07-sahti-ee1bc3/print">Print</a>
+<br>
+<a href="/recipes/003-2016-02-07-sahti-ee1bc3.xml">Export BeerXML</a>
+</div>
+  <script>
+    function inject(html) {
+      jQuery('#ad').html(html);
+    }
+  </script>
+
+  <div id="ad" class="media hide-on-mobile">
+    <script type="text/javascript" src="https://ads.brewtoad.com/ads/serve"></script>
+  </div>
+
+
+</div>
+<div class='subnav--content'>
+<div class='soft hard--bottom'>
+<h2>
+Brewed by
+<strong><a href="/users/44698">chamb186</a></strong>
+</h2>
+<h3>
+On
+<strong>February 15, 2016</strong>
+</h3>
+</div>
+<div class='soft hard--bottom'>
+<h2 id='brewing-notes'>Brewing Notes</h2>
+<div class='markdown'>
+<p>2/15/2015, PM-
+Mash: Oven setting of 170F. Heated strike water on stove to 163-164F and removed. Added grain and ~4g juniper berries (1/1/2017 Note: can't be correct. Recipe calls for 4 tbsp?). Wort temperature ~154F. Supplemental heat on stove to 156F. Maintained 156F until stirred at 45 minute mark. Dropped to 154F upon sitrring and remained until 60 minute mark.
+Mash Out: Removed from stove and stirred. Heated wort to ~171F and ran quickly through larger 11" colander into 5 gal kettle. Transferred first runnings from 5 gal kettle to clean 2 gal fermenter. Heated sparge water to ~170F in 2 gal kettle on single zone stove and ran through grain bed into 5 gal kettle (many transfers to 2 gal fermenter until ~1.3-1.4 gal total volume). Transferred wort to (along with final runnings as heating to boil) to 2 gal kettle. Dropped thermometer into last of sparge water at ~170F. Thermometer no longer accurate reading of room temperature.
+Boil: Added 3g (~0.1 oz) simcoe hops after break in nylon pouch, began 60 minute boil. Boil temperature ~235F (termometer broken, ~20F over actual?). Addition of ~1.5g (~0.05 oz) simcoe hops at 40 minute mark with 5g juniper berries. Add Irish moss 1/4 tsp at ~12 minute. Addition of ~1.5g (~0.05 oz) simcoe hops at 40 minute mark with 5g juniper berries at flame out.
+Cool Wort: Left nylon hop sack in cooling wort. Ice bath in sink with ice packs, emptied freezer. ~99F after 30 minutes (equate to ~80F?). Measure of room temperature rose slowly from 104F to 115F over 20 minute period. Ice still present in sink after 30 minute cool-down.
+Wort to Fermenter: Starsan sanitizer of fermenter during boil. Set aside. ~6 transfers completed between kettle and fermenter to oxygenate and bring nearer room temp (70F).
+Pitch: OG reading on refractometer of sample from kettle ~1.087 SG. Did not use top-up water in order to maintain gravity as close as possible to target (1.088). Final volume estimated ~0.8 gal. Pitched full WLP380 to 2 gal fermenter prior to last transfer. Covered and sealed. Bubble lock contained starsan solution. Did not sample due to low volume.
+Fermentation: Visible fermentation at 24 hours, but slow. Checked again at 7 day time-point: ~1 release per 90 seconds. Fermentation slow at ~2 weeks. Auto-siphoned to 1 gallon fermenter 2/27/2016. MG 1.053 (Brix ~13.0) equating to 7.43% per brewer's friend conversion calculator. After primary: slightly sour, medium high notable yeasty character (spice, banana), medium-low rye, low bitterness, caramel sweetness (not fully attenuated?), full body, not cloying, medium alcohol presence, but not hot, balances well with juniper, clean, ginny, hazy (end of siphon), iron red/medium brown. We spent a good deal of time pipetting beer of the yeast cake after the samples for gravity readings were gone.
+Bottling: Siphoned beer from primary into sterile bottling bucket. First FG as measured on refractometer: Drew and Britta 1.051. Began using auto-siphon and siphon valve to transfer beer to sterile bottles. Completed 1 1/2 before realizing I hadn't primed. Boiled 2/3 cup water and added 0.77-0.81 oz table sugar (scale fluctuating). Cooled with ice and poured into bottling bucket along with beer from two bottles I began filling. Used auto-siphon to mix by recycling back into same bucket. Initial yield of 6 capped. Second FG measured from beer taken from yeast cake, covered and settled overnight in fridge (~24 hours) to top-off one additional beer (7 total). Labeled cap of seventh beer "Jeff".  FG as measured from bucket before priming: Drew and Britta 1.051. PeteDrinks.com reflactometer conversion for final gravity based on FG 1.051 (as this measurement was from bottling day), OG 1.087, wort correction 1.0 -&gt; ABV 7.77% (a la Mr. Leonard Washington). As tasted from glass settled in fridge overnight: Yeast character upfront, banana high to very-high, spicy rye (medium) and clove (medium-low) follow, sweet toffee/caramel (medium), strong malt balance, full bodied, juniper/gin lingers as it dries up. Iron red/medium brown color maintained. Not carbonated yet. Hazy. Medium-low bitterness. No distinguishable hop flavor other than piney character (low). Medium-low alcohol warmth. Aroma: Banana (high), caramel (medium-low), moderately strong alcohol presence, clove/spice (low), slightly yeasty, no notable hop character, gin-like.
+Entered 27A: Received third in historical styles with score of 37/50 at Ocean State Homebrew Comp 4/9/2016. Judged separately at South Shore Brew-Off Mansfield, MA 4/16/2016 with a score of 30/50.
+Review 4/24/2016: Served cold, ~45C. Aroma: Sweet malt base, caramel, medium, banana, medium-low. Clove, low. No other apparent hop character. Alcohol, low. Very slight earthy note, herbal. Low pine-gin note. Rye spice very low = 9/12. Appearance: Hazy, coppery amber brown. Visual carbonation. Head fades low to rim. Light brown, visible carbonation activity, slow. Significant uniform lacing on glass. No chunks. Later pours - fine head. Did not break. Thick creamy at rim. =3/5. Sweet sugary malt character. Caramel, medium. Banana bread. Clove, low. Medium low phenolic, very low earthy hop, resiny. Bitterness, low. Sweetness lingers, dries slightly into finish. Low pine/gin. Low rye = 12/20. Very full body. Medium low carb. No apparemt astringency// Thick, viscous, almost sytuppy. Medium creaminess. Low to medium low warming = 4/5. Bump up juniper, high alc would be fine. Carb higher than expected. Good and within bounds (don't change if possible); Juniper in nose/flavor could both be higher. Banada bread there, clove not. Sweet, higher attenuation okay. Increase rye = 6/10. -&gt; 34/50!</p>
+</div>
+</div>
+</div>
+</div>
+
+<footer class='site-footer soft--top layer-0 hide-on-mobile'>
+<div class='soft--sides'>
+<div class='footer-nav container-row row'>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Home</li>
+<li>
+<a href='/recipes' title='Explore homebrew recipes'>All Recipes</a>
+</li>
+<li>
+<a href='/users' title='Find homebrewers'>Brewers</a>
+</li>
+<li>
+<a href='/groups' title='Find homebrew groups near you!'>Groups</a>
+</li>
+<!-- %li -->
+<!-- %a{:href => forums_path, :title => t("footer.forums_link.title")}= t("footer.forums_link.text") -->
+<li>
+<a href='/pro' title='Learn about Brewtoad Pro'>Features &amp; Pricing</a>
+</li>
+<li>
+<a href='/sponsors' title='Thanks to our Sponsors!'>Deals &amp; Sponsorship</a>
+</li>
+<!--
+<li><a href="http://brewtoad.myshopify.com/" target="_blank" class="blue"><haml_loud> t("footer.store_link.text") </haml_loud></a></li>
+<li><a href="http://blog.brewtoad.com/"      target="_blank" class="blue"><haml_loud> t("footer.blog_link.text") </haml_loud></a></li>
+<li><a href="http://brewtoad.com/faq/"       target="_blank" class="blue"><haml_loud> t("footer.faq_link.text") </haml_loud></a></li>
+-->
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Tools &amp; Calculators</li>
+<li>
+<a href='/tools/mash-water-calculator' title='Mash Water Calculator'>Mash Water Calculator</a>
+</li>
+<li>
+<a href='/tools/mash-infusion-calculator' title='Mash Infusion Calculator'>Mash Infusion Calculator</a>
+</li>
+<li>
+<a href='/tools/alcohol-calculator' title='Alcohol Calculator'>Alcohol Calculator</a>
+</li>
+<li>
+<a href='/tools/color-converter' title='Color Converter'>Color Converter</a>
+</li>
+<li>
+<a href='/tools/malt-potential-extract-calculator' title='Malt Potential Extract Calculator'>Malt Potential Extract Calculator</a>
+</li>
+<li>
+<a href='/tools/hydrometer-temperature-correction' title='Hydrometer Temperature Correction'>Hydrometer Temperature Correction</a>
+</li>
+<li>
+<a href='/tools/pitch-rate-calculator' title='Pitch Rate Calculator'>Pitch Rate Calculator</a>
+</li>
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Styles &amp; Ingredients</li>
+<li>
+<a href='/styles' title='Research Styles'>Styles</a>
+</li>
+<li>
+<a href='/generic-fermentables' title='Research Fermentables'>Fermentables</a>
+</li>
+<li>
+<a href='/hops' title='Research Hops'>Hops</a>
+</li>
+<li>
+<a href='/yeasts' title='Research Yeasts'>Yeasts</a>
+</li>
+<li>
+<a href='/extras' title='Research extras'>Extras</a>
+</li>
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul class='social'>
+<li>
+Follow Us
+</li>
+<li>
+<a href='https://twitter.com/brewtoad' target='_blank'>
+<i class='icon ion-social-twitter'></i>
+@Brewtoad
+</a>
+</li>
+<li>
+<a href='https://www.facebook.com/Brewtoad' target='_blank'>
+<i class='icon icon-facebook'></i>
+Facebook
+</a>
+</li>
+<li>
+<a href='https://instagram.com/brewtoad/' target='_blank'>
+<i class='icon icon-instagram'></i>
+#Brewtoad
+</a>
+</li>
+<li>
+<a href='https://plus.google.com/+Brewtoad/posts' target='_blank'>
+<i class='icon icon-google-plus'></i>
+Google+
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='sep'></div>
+<div class='copyright soft--bottom'>
+<ul class='nav with-separator footer-links'>
+<li class='about'>
+<a href='/about' title='pricing and features'>About</a>
+</li>
+<li class='advertise'>
+<a href='/sponsors' title='Sponsorship'>Sponsorship</a>
+</li>
+<!-- <li class="ad no-border"><a href="http://www.ackmanndickenson.com" target="_blank" title="<haml_loud> t("footer.ackmann_dickenson_link.title") </haml_loud>"><img src="<haml_loud> asset_path('ad-logo.png') </haml_loud>"/></a></li> -->
+<li class='contact'>
+<a href='/contact' title='Contact us'>Contact</a>
+</li>
+<li class='legal no-border'>
+<a href='/legal' title='Terms &amp; Conditions'>Terms &amp; Privacy</a>
+</li>
+</ul>
+</div>
+</footer>
+
+</div>
+</div>
+<!-- = render :partial => 'shared/pro_modal' -->
+
+
+</body>
+</html>

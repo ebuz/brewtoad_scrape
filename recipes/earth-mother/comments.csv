@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+18353,28987,Vincent I.,"June 02, 2014 12:02am",OG: 1.060,['18505']
+18505,28987,Vincent I.,"June 15, 2014  5:44pm",FG: 1.012,['18511']
+18511,28987,Vincent I.,"June 16, 2014  3:46am",Added a packet of Us-05 to finish out fermentation,['18662']
+18662,28987,Vincent I.,"June 29, 2014 12:45am",finished out at 1.004,[]

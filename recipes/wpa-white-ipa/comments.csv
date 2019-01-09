@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21961,119,Shibolet,"May 15, 2015 10:47am",Not the right yeast for a WIT beer. you need WLP400,['22029']
+22029,45688,Avishai,"May 21, 2015  2:42pm","It's not wit.
+It's belgian.",['22030']
+22030,45688,Avishai,"May 21, 2015  2:45pm","""Characteristic Ingredients: Pale and wheat malts, Belgian yeast, citrusy American type hops""",[]

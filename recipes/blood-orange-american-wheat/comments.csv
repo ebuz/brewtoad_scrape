@@ -1,0 +1,3 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+18289,54296,Altimate_One,"May 29, 2014  3:55pm","Hey guy, i saw that your pre-boil volume is 5.25 gal and post boil is 5 gal with a 60 minute boil.  How are you only boiling off 1/4 gal?",['18309']
+18309,53916,philobrew,"May 30, 2014  4:22pm","I didn't actually calculate my evaporation rate, so that isn't right. I do partial boils in my kettle--about 4 gallons--and then bring it up to 5 gallons in the fermenter. There might be a better way to note this using brewtoad but I just ignored it for now and aimed for my OG in the fermenter.",[]

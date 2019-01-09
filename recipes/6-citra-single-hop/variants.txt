@@ -1,0 +1,6 @@
+8-citra-single-hop
+10-amarillo-citra
+design-amarillo-apa
+13-oatmeal-pale-ale
+design-neipa
+17-oat-pale-ale

@@ -1,0 +1,12 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+25128,35672,jclark1031,"July 19, 2017  1:34pm","batch 1 6.5 plus 2.34 for 8.84 (about) for strike, cut at 160 for 152 goal, got just under 152, held it perfectly there, iodine test at 60 was good, pulled just over 6
+batch 2 was 6.5, pulled just over 6---not sure of exacts on each, but bottom line was under 13 gal, should have topped up to 13. 
+longer boil, plus less volume, plus a bit better efficiency (did pilsner help conversion, like when adam does that at burley?) gave me under 10 gal
+a bit under 5 in each fermentor, at 1062
+pitched two packs of s189 and 2 packs of s 3470 at around 58 degrees (after chilling and then sitting in the fridge at 40 for the afternoon)
+left at 40 ambient for 2 weeks, then raised it up to 65 ambient","['25129', '25152']"
+25129,35672,jclark1031,"July 19, 2017  1:35pm","was supposed to 1055 for 11 gal per recipe i put in (with my kettle loss end up with 10.5 in fermentors, so a bit over 5 in each)",['25130']
+25130,35672,jclark1031,"July 19, 2017  1:37pm","based on on my low volume and 1062-1063 OG, it is still right around 70% efficiency, so system was good. messed up volume a bit somehow (need 13 in fermentor)",['25151']
+25151,35672,jclark1031,"July 26, 2017  1:49am","brewtoad estimated 1019 final, but ended at 1013 for s189 and 1013 to 1014 for s3470 for ABV of 6.43%",[]
+25152,35672,jclark1031,"July 26, 2017  1:51am","65 ambient for 1 week, tasted, no butter, dropped to 35",['25167']
+25167,35672,jclark1031,"July 30, 2017  8:47pm",Dry hop 2 oz cas in one batch,[]

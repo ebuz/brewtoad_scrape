@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21431,15442,CaveMan Brewing,"March 28, 2015  3:14am",O.G = 1.081. Need to consider mash thickness a bit more next time brewing this one...,[]
+21665,15442,CaveMan Brewing,"April 16, 2015  6:34am",F.G 1.023. ABV: 7.7%,[]
+22087,15442,CaveMan Brewing,"May 30, 2015  4:06am",Head retention needs improvement,['22088']
+22088,15442,CaveMan Brewing,"May 30, 2015  4:11am",Getting rid of the Protein rest may be a good move to counter this,[]

@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+17050,49718,Jeremy Norland,"January 25, 2014 10:36pm",8 liter batch with a 2 liter top off.,['17051']
+17051,49718,Jeremy Norland,"January 25, 2014 10:39pm",7.58 boil,[]
+17049,49718,Jeremy Norland,"January 25, 2014 10:31pm","Ok.  So, if I do this as a full boil my values line up a bit better.  7 liter batch in my 10 liter pot should work if I am a bit careful...  I think with nearly 2 gallons, I should be able to pitch the entire tube???  I am going to play with the numbers a bit more.  Maybe a 1L water addition...",[]

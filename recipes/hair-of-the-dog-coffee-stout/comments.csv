@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+18918,33235,downeyj4,"July 24, 2014  9:39pm",2 ounces of coffee grounds is 10 tablespoons,[]
+18919,33235,downeyj4,"July 24, 2014  9:42pm",1.5 ounces of cocao powder is 6 tablespoons,['18920']
+18920,33235,downeyj4,"July 24, 2014  9:44pm",Upped it to 8 tablespoons,[]

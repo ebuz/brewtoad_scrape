@@ -1,0 +1,9 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20841,32661,asteveoconnor,"February 08, 2015 10:18pm","Missed the target mash temperature; mashed at 150F for 60 min., mash-out at 168 for 10 minutes.",[]
+20843,32661,asteveoconnor,"February 08, 2015 11:13pm",OG: 1.050,[]
+20845,32661,asteveoconnor,"February 09, 2015 12:05am","...overall, this looks to be a good beer! It meets style guidelines, and it will meet our flavor desire.",[]
+21239,32661,asteveoconnor,"March 13, 2015 12:18am","Terminal specific gravity: 1.013 at 12 days; transferred, and temperature lowered to 28-30F at 5F/day; this temperature was held for 3 days; lagering schedule,
+L=*P/2 x 12
+12.5/2 x 12 = 75 days.",['22010']
+22010,32661,asteveoconnor,"May 20, 2015 12:28am","Bottled on May 18, 2015: 86 days; SG: 1.015?",['22117']
+22117,32661,asteveoconnor,"June 04, 2015  3:09am",Green,[]

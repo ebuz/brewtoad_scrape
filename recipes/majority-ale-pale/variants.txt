@@ -1,0 +1,3 @@
+majority-ale-red
+majority-ale-brown
+majority-ale-black

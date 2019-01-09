@@ -1,0 +1,3 @@
+pats-pale-ale-v4
+pats-pale-ale-v5
+pats-pale-ale-v6

@@ -1,0 +1,2 @@
+nugget-session-ipa
+farmaid-ipa

@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+17214,50343,Victor Calderon,"February 05, 2014  9:54pm",How did this turn out?,['17266']
+17266,22788,danfdeblasio,"February 09, 2014  9:11pm","Hey Victor, I have made it twice now and its has turned out really well.  I had forgotten to load in my notes and gravities and its been a while but its really close to the original.",['17291']
+17291,50343,Victor Calderon,"February 10, 2014 10:36pm","Thanks for the info, Mongo IPA is my favorite. What temperature did you ferment at by the way, and how many weeks? I heard they were using the lager yeast and couldn't believe it.",['17359']
+17359,22788,danfdeblasio,"February 16, 2014 11:54pm","Hi Victor, I actually used an ale yeast, I guess I entered it wrong and I cannot seem to find my notes.  I'm sure it was like 1056 or something similar.  I fermented at room temp (70-76) for 2 weeks-ish (I may have gone a little over) but transfered  to a secondary after about 7 days when I dry hopped.  This is a recipe I found in my brewstore that we adapted to be extract.",[]

@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]> <html class="no-js oldie"> <![endif]-->
+<!--[if IE 9 ]> <html class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]> ><! <![endif]-->
+<html class='no-js'>
+<!-- <![endif] -->
+<head>
+<meta charset='utf-8'>
+<meta content='chrome=1' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8133495815","applicationID":"3690331","transactionName":"d15bTBMMWVVcF0pFXFdYRV0STFdLXBI6W1ZTQhpLCQxC","queueTime":0,"applicationTime":304,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<title>Brew Log for Common Room ESB - Variant AAU - High Eff | Brewtoad
+</title>
+<meta content='' name='description'>
+<meta content='' name='keywords'>
+<meta content='Ackmann &amp; Dickenson, Inc' name='author'>
+<meta content='width=device-width, initial-scale=0.9, user-scalable=no' name='viewport'>
+<meta content='ZHwJubiX3Uo_Q4FzwMXowZ-E6RfaHOmbv_nQ37SS8y8' name='google-site-verification'>
+<meta content='ba5c47f5ad5c883c8a813eb74b441953' name='p:domain_verify'>
+<meta content='513416568' property='twitter:account_id'>
+<link href='//bt-prod-assets.s3.amazonaws.com/assets/favicon.png' rel='shortcut icon'>
+<link href='//bt-prod-assets.s3.amazonaws.com/assets/apple-touch-icon.png' rel='apple-touch-icon'>
+<script src='https://maps.google.com/maps/api/js?sensor=false&amp;language=en' type='text/javascript'></script>
+<script src="//bt-prod-assets.s3.amazonaws.com/assets/modernizr.custom.82648.js"></script>
+<link rel="stylesheet" media="all" href="//bt-prod-assets.s3.amazonaws.com/assets/application.css" />
+<link rel="stylesheet" media="print" href="//bt-prod-assets.s3.amazonaws.com/assets/print.css" />
+<script src="//bt-prod-assets.s3.amazonaws.com/assets/application.js"></script>
+<script src='https://use.typekit.com/eiq6bjr.js' type='text/javascript'></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+<script>
+  dataLayer = [{
+    'event': 'pageLoad',
+    'loggedIn': false
+  }];
+</script>
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0IDX+ROHmJu4/MaARCqD8OHRTJz4vEcnGdewi7Qh3GL1aSUc+k15uXuyfNxXdybh+07fCxp6g8ULfzyEz5aivA==" />
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCZDBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCZDBR');</script>
+<!-- End Google Tag Manager -->
+<!-- / Site header -->
+<div class='header'>
+<div class='site-header'>
+<!-- / Toggle menu -->
+<a class='site-header--toggle-menu' href='#'>
+<i class='ion-navicon'></i>
+</a>
+<!-- / Logo -->
+<figure class='site-header--logo'>
+<a href='/'>
+<img alt='Brewtoad' src='//bt-prod-assets.s3.amazonaws.com/assets/brewtoad-2x.png'>
+</a>
+</figure>
+<!-- / Pro advert -->
+<!-- - if current_user.nil? || (current_user && !current_user.pro?) -->
+<!-- %a.site-header--pro.hide-on-mobile{:href => pro_path, :title => "Learn about Brewtoad Pro"} -->
+<!-- Go Brewtoad -->
+<!-- %strong Pro! -->
+<!-- / Site search -->
+<div class='site-header--search'>
+<a href='#'>
+<i class='ion-search'></i>
+</a>
+<form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="search" id="search" />
+<input type="submit" value="Search" />
+</form>
+
+</div>
+<ul class='hide-on-mobile site-header--social'>
+<li>
+<a href='https://www.facebook.com/brewtoad' target='_blank'>
+<i class='icon icon-facebook'></i>
+</a>
+</li>
+<li>
+<a href='https://twitter.com/brewtoad' target='_blank'>
+<i class='icon icon-twitter'></i>
+</a>
+</li>
+</ul>
+<!-- / User dropdown -->
+<!-- / Sign up / log in -->
+<div class='logged-out hide-on-mobile'>
+<a href='/accounts/sign_up'>Sign Up</a>
+<a href='/accounts/sign_in'>Log In</a>
+</div>
+<a class='site-header--login-button hide-above-mobile' href='/accounts/sign_in'>
+<i class='ion-person'></i>
+</a>
+</div>
+<nav class='site-nav'>
+<a class='toggle-nav' href='#'>
+<i class='ion-close'></i>
+</a>
+<ul>
+<li>
+<a>
+<i class='ion-beer'></i>
+Recipes
+</a>
+<ul>
+<li>
+<a href='/recipes'>
+<i class='ion-beer'></i>
+All Recipes
+</a>
+</li>
+<li>
+<a href='/recipes/new'>
+<i class='ion-compose'></i>
+New Recipe
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-chatbubbles'></i>
+Community
+</a>
+<ul>
+<li>
+<a href='/users'>
+<i class='ion-person'></i>
+Brewers
+</a>
+</li>
+<li>
+<a href='/groups'>
+<i class='ion-person-stalker'></i>
+Groups
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-stats-bars'></i>
+Styles &amp; Ingredients
+</a>
+<ul>
+<li>
+<a href='/styles'>
+<i class='ion-stats-bars'></i>
+Styles
+</a>
+</li>
+<li>
+<a href='/generic-fermentables'>
+<i class='ion-cube'></i>
+Fermentables
+</a>
+</li>
+<li>
+<a href='/hops'>
+<i class='ion-leaf'></i>
+Hops
+</a>
+</li>
+<li>
+<a href='/yeasts'>
+<i class='ion-bug'></i>
+Yeasts
+</a>
+</li>
+<li>
+<a href='/extras'>
+<i class='ion-beaker'></i>
+Extras
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a>
+<i class='ion-calculator'></i>
+Tools &amp; Calculators
+</a>
+<ul>
+<li>
+<a href='/tools/alcohol-calculator'>
+<i class='ion-calculator'></i>
+Alcohol Calculator
+</a>
+</li>
+<li>
+<a href='/tools/color-converter'>
+<i class='ion-calculator'></i>
+Color Converter
+</a>
+</li>
+<li>
+<a href='/tools/hydrometer-temperature-correction'>
+<i class='ion-calculator'></i>
+Hydrometer Temperature Correction
+</a>
+</li>
+<li>
+<a href='/tools/mash-water-calculator'>
+<i class='ion-calculator'></i>
+Mash Water Calculator
+</a>
+</li>
+<li>
+<a href='/tools/mash-infusion-calculator'>
+<i class='ion-calculator'></i>
+Mash Infusion Calculator
+</a>
+</li>
+<li>
+<a href='/tools/malt-potential-extract-calculator'>
+<i class='ion-calculator'></i>
+Malt Potential Extract
+</a>
+</li>
+<li>
+<a href='/tools/pitch-rate-calculator'>
+<i class='ion-calculator'></i>
+Pitch Rate Calculator
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div class='site-container brew_logs brew_logs-show'>
+<div class='site-content ' id='js-content'>
+<style>
+  table td {
+    border-bottom: 1px solid #eee;
+    padding: 1em;
+  }
+  
+  table tr.expired td {
+    text-decoration: line-through;
+  }
+</style>
+<script>
+  $(function() {
+    new BT.Recipes.Favorite('common-room-esb-variant-aau-high-eff');
+  });
+</script>
+<header>
+<figure class='recipe-color srm10'>
+<i class='icon icon-pint-glass'></i>
+</figure>
+<div class='header-content'>
+<h1>
+Common Room ESB - Variant AAU - High Eff
+<span class='hide-on-mobile'>
+</span>
+</h1>
+<p class='flush'>
+an
+All Grain
+<strong>
+<a class="js-modal style-link" data-title="Extra Special/Strong Bitter (English Pale Ale)" href="/styles/extra-special-strong-bitter-english-pale-ale">Extra Special/Strong Bitter (English Pale Ale)</a>
+</strong>
+<span class='author'>
+by
+<strong>
+<a href='/users/12690' title="View rockmodestly's recipes">rockmodestly</a>
+</strong>
+</span>
+</p>
+</div>
+</header>
+
+<div class='subnav'>
+<div class='subnav--sidebar'>
+<ul class='hide-on-mobile'>
+<li class=''>
+<a href='/recipes/common-room-esb-variant-aau-high-eff' title='Ingredients'>
+<i class='ion-beer'></i>
+<span>Ingredients</span>
+</a>
+</li>
+<li class='active'>
+<small class='fr'>1</small>
+<a href='/recipes/common-room-esb-variant-aau-high-eff/brew-logs' title='Brew Logs'>
+<i class='ion-clipboard'></i>
+<span>Brew Logs</span>
+</a>
+</li>
+<li class=''>
+<small class='fr'>0</small>
+<a href='/recipes/common-room-esb-variant-aau-high-eff/ancestry' title='Variants'>
+<i class='ion-fork-repo'></i>
+<span>Variants</span>
+</a>
+</li>
+<li class=''>
+<small class='fr'>0</small>
+<a href='/recipes/common-room-esb-variant-aau-high-eff/reviews' title='Reviews'>
+<i class='ion-star'></i>
+<span>Reviews</span>
+</a>
+</li>
+</ul>
+<div class='soft--half'>
+<a href="/recipes/common-room-esb-variant-aau-high-eff/print">Print</a>
+<br>
+<a href="/recipes/common-room-esb-variant-aau-high-eff.xml">Export BeerXML</a>
+</div>
+  <script>
+    function inject(html) {
+      jQuery('#ad').html(html);
+    }
+  </script>
+
+  <div id="ad" class="media hide-on-mobile">
+    <script type="text/javascript" src="https://ads.brewtoad.com/ads/serve"></script>
+  </div>
+
+
+</div>
+<div class='subnav--content'>
+<div class='soft hard--bottom'>
+<h2>
+Brewed by
+<strong><a href="/users/12690">rockmodestly</a></strong>
+</h2>
+<h3>
+On
+<strong>July 26, 2018</strong>
+</h3>
+</div>
+<div class='soft hard--bottom'>
+<h2 id='brewing-notes'>Brewing Notes</h2>
+<div class='markdown'>
+<p>Epic brew day!!! Stuck sparge insanity, still learning the new system, moving huge amounts of water/grain around unnecessarily, spilling wort, etc.</p>
+
+<p><em>YET</em></p>
+
+<p>Made an incredible ESB..</p>
+
+<p><strong><em> THE PLAN </em></strong></p>
+
+<p>22lb of grain
+1.25qt/lb
+27.5qt
+6.9g strike water</p>
+
+<p>Rounded up to 7g strike water at 168</p>
+
+<p>6.5g wort from mash, after grain absorption
+7g sparge at 180</p>
+
+<p>60 minute mash at 152
+60 minute fly sparge at 168</p>
+
+<p>13g preboil volume</p>
+
+<p>60 minute boil</p>
+
+<p>3oz EKG FWH
+1oz EKG 20 mins
+0.5oz Fuggle 20 mins
+0.5oz EKG 0 min
+0.5oz Fuggle 0 min</p>
+
+<p><strong> THE ACTUAL EVENTS </strong></p>
+
+<p>Tried a ton of different ways to split up moving large amounts of water, with a ton of failures.</p>
+
+<p>Lighter even got wet at one point and I had to go to the store to buy a new one...</p>
+
+<p>Got a stuck sparge with the mash out. No movement at all, even when I was slow to open up valve. Ended up emptying it <em>twice</em> into the sparge tank to try and clear it. The 2nd time worked because I Poured the grain back into the mash tun using a gallon jug as a scoop, rather than dumping from one cooler into the other (this causes too much motion and probably displaces the false bottom).</p>
+
+<p>This false bottom is nice but very finicky and requires very gentle stirring. Make sure mash paddle NEVER touches bottom.</p>
+
+<p>After an insane brew day, and a 1 hour mash at 153, probably 1 hour mash at 140 (as transferring back and forth between sparge and mash tun due to stuck sparge), and then long ~1.5 hour slow sparge at 168.</p>
+
+<p>I started boiling the wort and sparge before the sparge had completed, to save time. This worked well and will work especially well when there's no stuck sparge.</p>
+
+<p>Ended up with preboil gravity of around 13g, which was perfect, after 60 minute boil ended up with ~11.5g of wort. Got a perfect 5.5g in each of the fermenters.</p>
+
+<p>I ended up with an OG of 1.065 and efficiency of 90%!!!</p>
+
+<p><strong> SUCCESSFUL WAY TO DO THINGS: </strong></p>
+
+<p>Just get the full volume of strike water into the sparge tun. You can start by pouring from kettle to tun via insulated hose (but expect to lose heat). Once the kettle is 1/2 way empty or more, you can just tip it carefully into sparge (using oven mitts).</p>
+
+<p>Lift sparge tank onto workbench in garage. THIS IS THE ONLY WAY TO GET CORRECT HEIGHTS. Use your core!</p>
+
+<p><strong>CAREFULLY</strong> pour strike water into mash tun, start with a hose and see what the temp comes out at. If higher than intended strike temp, wait/stir until temp drops.</p>
+
+<p>When you stir mash, BE CAREFUL NOT TO JOSTLE the false bottom! THIS WILL RESULT IN A STUCK SPARGE. Never let the mash paddle reach the bottom.</p>
+
+<p>When boiling, don't use full blast with the jet burner -- too many BTUS will result in constant boilover, even after hot break.</p>
+
+<p>Make sure you have ~13g preboil and you should be set with the perfect amount for 60 minute boil. For 90 minute boil, go for a bit extra. Boiloff rate ended up being around 1g/hour.</p>
+
+<p><strong> FG READING </strong></p>
+
+<p>8/3/18 - 1.017 FG after 8 days.</p>
+
+<p>6.3% ESB!!!! A bit higher than the style maximum (6.1%) but who's counting...</p>
+
+<p>Fermented cool 65-67 for first few days, ramped up 1 degree every few days until ambient was closer to 68-70.</p>
+
+<p>Tasting notes: Tastes bready, malty, caramel-y with a pleasant amount of bitterness from the hops, and spice from the alcohol.</p>
+
+<p>In the secondary the heat from the alcohol should mellow out, especially after kegging/cold conditioning for a bit too. Going to secondary at ambient basement temps to clear room in the fermentation chamber, which at this time of year appears to be around 75. For a full 3 weeks (1 week fermentation, 2 week secondary) I should plan to cold crash / keg around 8/16.</p>
+</div>
+</div>
+<div class='soft'>
+<h2 id='notes'>Notes</h2>
+<table class='flush hide-on-mobile'>
+<thead>
+<tr>
+<th width='20%'>Date</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class='nowrap'>
+<strong>08/03/2018 10:42am</strong>
+</td>
+<td><p>Note that in the stir plate, there was no major krausen visible to make it obvious that fermentation was happening (although the wort smelled pleasantly bready/beer-y). I also did *not* decant from the starter, just pitched the whole thing (didn't have time to drop starter in the fridge). This caused no issues to the taste.</p>
+
+<p>The fermentation also took around 24-36 hours to really kick in, as far as bubbling in the blowoff tube. This is classic for this yeast strain but RDWHAHB, it chugged through the beer from 1.065 - 1.017!</p></td>
+</tr>
+<tr>
+<td class='nowrap'>
+<strong>09/18/2018  1:33pm</strong>
+</td>
+<td><p>This beer was simply too strong. Gives you a headache and has a hot alcohol flavor. It may mellow out with time, but it's really not what I was looking for. I wanted a simple, low ABV quaffable pale ale. The high ABV is likely due to the fact that with a stuck sparge, I got way too high efficiency. Next time I'll know how to do it better.</p></td>
+</tr>
+</tbody>
+</table>
+<ol class='hide-above-mobile'>
+<li>
+<dl>
+<dt>Date</dt>
+<dd>
+08/03/2018 10:42am
+</dd>
+<dt>Notes</dt>
+<dd><p>Note that in the stir plate, there was no major krausen visible to make it obvious that fermentation was happening (although the wort smelled pleasantly bready/beer-y). I also did *not* decant from the starter, just pitched the whole thing (didn't have time to drop starter in the fridge). This caused no issues to the taste.</p>
+
+<p>The fermentation also took around 24-36 hours to really kick in, as far as bubbling in the blowoff tube. This is classic for this yeast strain but RDWHAHB, it chugged through the beer from 1.065 - 1.017!</p></dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>Date</dt>
+<dd>
+09/18/2018  1:33pm
+</dd>
+<dt>Notes</dt>
+<dd><p>This beer was simply too strong. Gives you a headache and has a hot alcohol flavor. It may mellow out with time, but it's really not what I was looking for. I wanted a simple, low ABV quaffable pale ale. The high ABV is likely due to the fact that with a stuck sparge, I got way too high efficiency. Next time I'll know how to do it better.</p></dd>
+</dl>
+</li>
+</ol>
+</div>
+</div>
+</div>
+
+<footer class='site-footer soft--top layer-0 hide-on-mobile'>
+<div class='soft--sides'>
+<div class='footer-nav container-row row'>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Home</li>
+<li>
+<a href='/recipes' title='Explore homebrew recipes'>All Recipes</a>
+</li>
+<li>
+<a href='/users' title='Find homebrewers'>Brewers</a>
+</li>
+<li>
+<a href='/groups' title='Find homebrew groups near you!'>Groups</a>
+</li>
+<!-- %li -->
+<!-- %a{:href => forums_path, :title => t("footer.forums_link.title")}= t("footer.forums_link.text") -->
+<li>
+<a href='/pro' title='Learn about Brewtoad Pro'>Features &amp; Pricing</a>
+</li>
+<li>
+<a href='/sponsors' title='Thanks to our Sponsors!'>Deals &amp; Sponsorship</a>
+</li>
+<!--
+<li><a href="http://brewtoad.myshopify.com/" target="_blank" class="blue"><haml_loud> t("footer.store_link.text") </haml_loud></a></li>
+<li><a href="http://blog.brewtoad.com/"      target="_blank" class="blue"><haml_loud> t("footer.blog_link.text") </haml_loud></a></li>
+<li><a href="http://brewtoad.com/faq/"       target="_blank" class="blue"><haml_loud> t("footer.faq_link.text") </haml_loud></a></li>
+-->
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Tools &amp; Calculators</li>
+<li>
+<a href='/tools/mash-water-calculator' title='Mash Water Calculator'>Mash Water Calculator</a>
+</li>
+<li>
+<a href='/tools/mash-infusion-calculator' title='Mash Infusion Calculator'>Mash Infusion Calculator</a>
+</li>
+<li>
+<a href='/tools/alcohol-calculator' title='Alcohol Calculator'>Alcohol Calculator</a>
+</li>
+<li>
+<a href='/tools/color-converter' title='Color Converter'>Color Converter</a>
+</li>
+<li>
+<a href='/tools/malt-potential-extract-calculator' title='Malt Potential Extract Calculator'>Malt Potential Extract Calculator</a>
+</li>
+<li>
+<a href='/tools/hydrometer-temperature-correction' title='Hydrometer Temperature Correction'>Hydrometer Temperature Correction</a>
+</li>
+<li>
+<a href='/tools/pitch-rate-calculator' title='Pitch Rate Calculator'>Pitch Rate Calculator</a>
+</li>
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul>
+<li>Styles &amp; Ingredients</li>
+<li>
+<a href='/styles' title='Research Styles'>Styles</a>
+</li>
+<li>
+<a href='/generic-fermentables' title='Research Fermentables'>Fermentables</a>
+</li>
+<li>
+<a href='/hops' title='Research Hops'>Hops</a>
+</li>
+<li>
+<a href='/yeasts' title='Research Yeasts'>Yeasts</a>
+</li>
+<li>
+<a href='/extras' title='Research extras'>Extras</a>
+</li>
+</ul>
+</div>
+<div class='col-fourths soft--half-sides'>
+<ul class='social'>
+<li>
+Follow Us
+</li>
+<li>
+<a href='https://twitter.com/brewtoad' target='_blank'>
+<i class='icon ion-social-twitter'></i>
+@Brewtoad
+</a>
+</li>
+<li>
+<a href='https://www.facebook.com/Brewtoad' target='_blank'>
+<i class='icon icon-facebook'></i>
+Facebook
+</a>
+</li>
+<li>
+<a href='https://instagram.com/brewtoad/' target='_blank'>
+<i class='icon icon-instagram'></i>
+#Brewtoad
+</a>
+</li>
+<li>
+<a href='https://plus.google.com/+Brewtoad/posts' target='_blank'>
+<i class='icon icon-google-plus'></i>
+Google+
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='sep'></div>
+<div class='copyright soft--bottom'>
+<ul class='nav with-separator footer-links'>
+<li class='about'>
+<a href='/about' title='pricing and features'>About</a>
+</li>
+<li class='advertise'>
+<a href='/sponsors' title='Sponsorship'>Sponsorship</a>
+</li>
+<!-- <li class="ad no-border"><a href="http://www.ackmanndickenson.com" target="_blank" title="<haml_loud> t("footer.ackmann_dickenson_link.title") </haml_loud>"><img src="<haml_loud> asset_path('ad-logo.png') </haml_loud>"/></a></li> -->
+<li class='contact'>
+<a href='/contact' title='Contact us'>Contact</a>
+</li>
+<li class='legal no-border'>
+<a href='/legal' title='Terms &amp; Conditions'>Terms &amp; Privacy</a>
+</li>
+</ul>
+</div>
+</footer>
+
+</div>
+</div>
+<!-- = render :partial => 'shared/pro_modal' -->
+
+
+</body>
+</html>

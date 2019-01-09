@@ -1,0 +1,13 @@
+cpa-classic
+bigga
+littla2
+ipa-wc
+small-batch-ipa-nelson-meridian
+galaxy-nelson
+kviek-split
+singlehop
+sc-ipa-cbc146
+singlehop-no-sparge
+littler
+1-gallon-cpa-extract
+cpa-3-gallon-partial

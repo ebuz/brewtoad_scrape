@@ -1,0 +1,68 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+25894,71349,spookify,"April 16, 2018  9:38pm","#1 (Hop's) (5g) 
+Day 2 = 1 oz Citra (Cryo)
+Day 2 = 1 oz Mosaic
+Day 2 = 1 oz Galaxy
+Day 4 = 1 oz Citra (Cryo)
+Day 4 = 1 oz Mosaic
+Day 4 = 1 oz Galaxy
+Day 7 = Vanilla Bean ""1"" (One Bean)
+Keg = 0.5 lbs. Syrup Lactose 
+#2 (BOOM FLAVOR) (5g) 
+Day 2 = 1 oz Citra (Cryo)
+Day 2 = 1 oz Galaxy
+Day 2 = 1 oz Mosaic
+Day 4 = 1 oz Citra (Cryo)
+Day 4 = 1 oz Galaxy
+Day 4 = 1 oz Mosaic
+Day 7 = 4-6 lbs. of Strawberries Mango's
+Day 7 = Vanilla Beans ""2"" (Two Beans)
+Keg = 1 lbs. Syrup Lactose",['26073']
+26073,71349,spookify,"June 13, 2018  1:06pm","FINAL:
+#1 (Hop's) (5g) 
+Day 2 = 1 oz Citra (Cryo) 
+Day 2 = 1 oz Mosaic 
+Day 2 = 1 oz Galaxy 
+Day 4 = 1 oz Citra (Cryo) 
+Day 4 = 1 oz Mosaic 
+Day 4 = 1 oz Galaxy 
+Day 7 = Vanilla Bean ""2"" (Two Bean) 
+Keg = 1 lbs. Syrup Lactose
+#2 (BOOM FLAVOR) (5g) 
+Day 2 = 1 oz Citra (Cryo) 
+Day 2 = 1 oz Galaxy 
+Day 2 = 1 oz Mosaic 
+Day 4 = 1 oz Citra (Cryo) 
+Day 4 = 1 oz Galaxy 
+Day 4 = 1 oz Mosaic 
+Day 7 = 4-6 lbs. of Strawberries Mango's 
+Day 7 = Vanilla Beans ""2"" (Two Beans) 
+Keg = 1 lbs. Syrup Lactose",[]
+25900,71349,spookify,"April 17, 2018  4:20pm",Start Dry Hop at 175 Degree's,['25901']
+25901,71349,spookify,"April 17, 2018  4:21pm",Start Whirlpool at 175 Degree's,[]
+25909,71349,spookify,"April 23, 2018  1:20pm","Max Temp 160
+Min Temp 152
+Target Temp = 156",[]
+25910,71349,spookify,"April 23, 2018  3:42pm",Omega Yeast OYL-057 HotHead Ale Liquid Yeast,[]
+25911,71349,spookify,"April 23, 2018  3:52pm","Fermentation Schedule: 
+Pitch 66 
+2 Days @ 67 (DAY 2)
+Add Dry Hop #1 
+2 More Days @ Ramp to 68 (DAY 4)
+Add Dry Hop #2, 
+1 More Days @ Ramp to 69 (DAY 5)
+1 More Days @ Ramp to 70 (DAY 6)
+1 More Days @ Ramp to 72 (DAY 7)
+-Day 7 Follow (Lactose, Bean and Fruit Schedule) (See Above)  
+X Days @ 72 (Max 14 Days) 
+Check Gravity for Completeness 
+Cold Crash & Keg when Fermentation Complete (NO - Gelatin)",['25913']
+25913,71349,spookify,"April 23, 2018  4:03pm",Lactose @ Kegging,[]
+25924,71349,spookify,"April 24, 2018  7:38pm",pH = 5.42,[]
+25925,71349,spookify,"April 24, 2018  8:21pm",OG = 1.062,"['25965', '25926']"
+25965,58343,tsvercauteren,"May 11, 2018  3:38pm","FG = 1.013 , ABV = 6.43%",[]
+25926,71349,spookify,"April 24, 2018  8:23pm",1.050 Pre-Boil,[]
+26064,71349,spookify,"June 11, 2018 12:57pm","41.5/50
+Milkshake IPA / Spice, Herb, or Vegetable Beer (30A)
+1st Place",['26066']
+26066,71349,spookify,"June 11, 2018  1:00pm","30A) Spice, Herb, or Vegetable Beer - Noting the base style as 21B NEIPA and ingredients of lactose and vanilla",[]

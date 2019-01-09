@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+16724,2430,Luke,"January 01, 2014 12:33pm",Taste good. Tash likes the sound of it,[]
+16725,2430,Luke,"January 01, 2014 12:33pm",Also that was a question,['16753']
+16753,2431,Ben Cull,"January 03, 2014  3:58am","Haven't carbed her up yet, still trying to finish the other ones. Smells awesome though.",['16754']
+16754,2431,Ben Cull,"January 03, 2014  3:59am","PS, it's a Hitachino Nest White Ale clone.",[]

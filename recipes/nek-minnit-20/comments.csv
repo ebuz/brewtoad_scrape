@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21909,15442,CaveMan Brewing,"May 09, 2015  4:12am",O.G = 1.064,['22072']
+22072,15442,CaveMan Brewing,"May 28, 2015  4:47am",F.G = 1.020,['22140']
+22140,15442,CaveMan Brewing,"June 07, 2015 11:21pm",Corrected FG = 1.010 - ABV = 7.29%,[]
+22497,15442,CaveMan Brewing,"August 04, 2015  9:00am",Hop character didn't really show through on this one. Need to focus hops more toward end of boil and more on dry hop. Also need to tone back the roastiness.,[]

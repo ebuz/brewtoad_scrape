@@ -1,0 +1,3 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+16564,45199,Josh,"December 17, 2013  3:48am",How did this turn out? Seems like the bitterness would be overwhelming.,['16579']
+16579,22525,Derek Gillespie,"December 18, 2013  3:10am",It wasn't.  However we didn't ferment the right batch size.  It seems you lose about 1.5 gallons of beer from hop absorption and other factors during fermentation.  We needed to have 6.5 gallons in the fermentor as opposed to 5.5 to end up with a full 5 gallons.  That would have also dropped the ABV I think too.,[]

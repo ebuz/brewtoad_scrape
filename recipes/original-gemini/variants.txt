@@ -1,0 +1,3 @@
+bad-mojo-gemini
+gemini-xiv
+gemini-x

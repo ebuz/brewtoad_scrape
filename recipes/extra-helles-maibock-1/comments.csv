@@ -1,0 +1,4 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+21184,2172,HakuinHop,"March 09, 2015  1:48am",Brewed 3/8/2015.,['21187']
+21187,2172,HakuinHop,"March 09, 2015  1:58am",OG:1.063,['21452']
+21452,2172,HakuinHop,"March 29, 2015 11:10pm",FG: 1.017,[]

@@ -1,0 +1,21 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+26105,71349,spookify,"June 29, 2018  3:02pm","Fermentation Schedule: 
+Pitch 63
+2 Days @ 64 (DAY 2) 
+2 More Days @ Ramp to 67 (DAY 4) 
+-Day 7 Follow (Fruit Schedule) (See Notes) 
+X Days @ 67 (Max 14 Days) 
+Check Gravity for Completeness 
+Cold Crash & Keg when Fermentation Complete (YES - Gelatin)","['26107', '26130']"
+26107,71349,spookify,"June 29, 2018  3:05pm",Lactose @ Kegging,[]
+26130,71349,spookify,"July 16, 2018  2:58pm",Fruit additional will happen late as we do not want the flavors to ferment out.,[]
+26106,71349,spookify,"June 29, 2018  3:05pm","Max Temp 152 
+Min Temp 146/147
+Target Temp = 148",['26131']
+26131,71349,spookify,"July 16, 2018  3:02pm",Brewing Temps ran very high as compared to these targets. First 20 Minutes we were around 159/160 and let if free fall to 150/140 the rest of the way. Grain Bill was stuck in a clump so Temp was giving in inaccurate reading. Still had a very solid OG.,[]
+26116,71349,spookify,"July 07, 2018  6:35pm",OG = 1.045,[]
+26166,71349,spookify,"August 02, 2018  1:13am",1.014 = FG,[]
+26189,71349,spookify,"August 08, 2018  9:28pm",Notes: Coriander Seed is pretty strong after 1.5 weeks of Carbonation. Will make future notes as it ages. Adding Lactose to the Blackberry Gose covers up a little bit of the tartness and Coriander. It's pretty darn amazing! Salt amount is perfect as of right now. Cherry Gose takes like tart apple pie with a large Coriander after flavor.,['26242']
+26242,71349,spookify,"September 05, 2018  1:33am",Tart Cherry Pie^^,[]
+26241,71349,spookify,"September 05, 2018  1:32am","Cherry Gose tastes like a tark cherry pie. Flavor got better as it aged.
+Blackberry Gose w/Lactose the flavor faded heavily after 2 weeks of kegging and drinking. Lactose mellowed out the fruit and the fruit thickness also went away after 2 weeks.",[]

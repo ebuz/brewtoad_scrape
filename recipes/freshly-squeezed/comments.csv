@@ -1,0 +1,5 @@
+commentId,brewerId,brewerName,date,comment,replyIds
+20998,63776,Garrett Pierce,"February 22, 2015  6:26am",Just a heads-up: http://www.deschutesbrewery.com/brew/fresh-squeezed-ipa,[]
+21000,63757,Owen Lohner,"February 22, 2015  5:24pm",thats the joy of being a home brewer!,['21001']
+21001,63757,Owen Lohner,"February 22, 2015  5:25pm",and i changed it :(,['21018']
+21018,63776,Garrett Pierce,"February 24, 2015  3:28am",Brilliant work on the re-naming.,[]
