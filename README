@@ -1,0 +1,3 @@
+This is a scrape of the brewtoad website.
+It inclides the recipe XMLs, the recipe comments, variants, and brew logs.
+The comments and variants are parsed into a simple form but the logs are the raw html format.
